@@ -4,6 +4,8 @@
 
 ### Of the Department of Mineralogy, British Museum; Examiner in Chemistry and Physics, Royal Military Academy.
 
+## 1877.
+
 The question which has so often been raised, How did life — 
 originate on our earth? has again been brought before the - 
 consideration of the scientific world by Professor Allen Thomson, 
