@@ -6,526 +6,37 @@
 
 ## 1877.
 
-The question which has so often been raised, How did life — 
-originate on our earth? has again been brought before the - 
-consideration of the scientific world by Professor Allen Thomson, 
-in the Presidential address delivered at the Plymouth meeting 
-of the British Association during the present autumn. One 
+The question which has so often been raised, How did life originate on our earth? has again been brought before the consideration of the scientific world by Professor Allen Thomson, in the Presidential address delivered at the Plymouth meeting of the British Association during the present autumn. One explanation to which he refers is that which formed a prominent feature in the address of a former occupant of the Presidential chair, Sir William Thomson, who six years ago suggested as a possible solution of this great question that the germs of life might have been borne to our globe by the meteorites which are scattered through space, and which from time to time fall upon the surface of our planet. If, he maintained, we trace back the physical history of our earth, we are brought to a red-hot melted globe on which no life could exist. The earth was first fit for life, and there was no living thing upon it. Can any probable solution, consistent with the ordinary course of nature, be found to explain the problem of its first appearance? When a lava stream flows down the side of Vesuvius or Etna it quickly cools and becomes solid, and after a few weeks or years it teems with vegetable and animal life, which life originated by the transport of seed and ova and by the migration of individual living creatures. When a volcanic island emerges from the sea, and after a few years is clothed with vegetation, we do not hesitate to assume that seed has been wafted to it through the air, or floated to it on rafts. Is it not possible --- and if possible, is it not probable --- that the beginning of vegetable life on the earth may be similarly explained? Every year thousands, probably millions, of fragments of solid matter fall upon the earth. Whence came they? What is the previous history of any one of them? Was it created in the beginning of time an amorphous mass? The idea is so unacceptable that, tacitly or explicitly, all men discard it. It is often assumed that all, and it is certain that some, meteorites are fragments severed from larger masses and launched free into space. It is as sure that collisions must occur between great masses moving through space as it is that ships, steered without intelligence directed to prevent collisions, could not cross and recross the Atlantic for thousands of years with immunity from such catastrophes. When two great masses come into collision in space it is certain that a large part of each of them is melted; but it appears equally certain that in many cases a large quantity of _débris_ must be shot forth in all directions, much of which may have been exposed to no greater violence than individual pieces of rock experience in a landslip or in blasting by gunpowder. Should the time when this earth comes into collision with another body, comparable in dimensions to itself, be when it is still clothed, as at present, with vegetation, many great and small fragments carrying seed and living plants and animals would undoubtedly be scattered through space. Hence and because we all confidently believe that there are at present, and have been from time immemorial, many worlds of life besides our own, we must regard it as probable in the highest degree that there are countless seed-bearing meteoric stones moving about through space. If at the present instant no life existed upon this earth, one such stone falling upon it might lead to its becoming covered with vegetation. "I am fully conscious," he concludes, "of the many scientific objections which may be urged against this hypothesis, but I believe them to be all answerable... The hypothesis that life originated on this earth through moss-grown fragments from the ruins of another world may seem wild and visionary; all I maintain is that it is not unscientific."*
 
+Sir William Thomson's views, thus plainly set forth, did not fail to attract adverse criticism. Before we proceed to consider the comments which his hypothesis called forth, we may call the reader's attention for a short time to speculations in the same direction which have appeared in the writings of scientific men in France and Germany.
 
-: explanation to which he refers is that which formed a prominent 
+First, we must refer to a remarkable passage in the great work of Count A. de Bylandt Palstercamp, on the Theory of Volcanos.* He wrote in 1835, at a time when Laplace's theory that meteorites were hurled at us from lunar volcanoes was still generally received, and this will account to some extent for the source of the cosmical masses of which he treats. What is mainly worthy of notice is their character, of carriers of the faculty of organization, which he attributes to them. In the chapter intituled "Principe d'après lequel le premier développement de notre globe peut s'être effectué?" he writes: "It may be a matter of curiosity, but it is in nowise necessary, that we should know on what principle or from what organized body the great mass of our globe has been derived; it is sufficient for us that we exist in a manner where everything is perfectly organized, at least in so far as the aim of our existence is concerned. Many scientific men have exercised their imagination on this problem without being able to come to any definite decision. Some maintain that the nucleus of our globe was a fragment of a body which in its cosmical path had dashed itself into fragments against the sun, which the very close proximity of some comet to that star gives grounds for believing. Others suppose us to be a vast aerolite thrown off from the sun himself* with a force proportional to its mass, to a zone where the motion is determined in accordance with the laws of reciprocal attraction, and that this fragment carried in itself the germ of all that organization which we see around us, and of which we form a part. (_Que cet éclat portait en lui le germe de toute cette organisation que nous observons ici et dont nous faisons partie._) They suppose the satellites to be small parts or fragments detached from the chief mass by the violence of the rotation at the time it is hurled forth, or by the excessively high original temperature, increased by the fall, which produced a very violent dilatation of the matter, and severed some portions from it. These aerolites, it is said, by way of comparison, contain within them the principle common to the body whence they have been derived, just as a grain of seed carried by the wind is able to produce at a remote distance a tree like its prototype, with such modifications only as are due to soil or climate."
 
+*) "Address of Sir William Thomson, Knt., LL. D., F. R. S., President." London: Taylor and Francis. 1871. P. 27.
 
-feature in the address of a former occupant of the Presidential 
-chair, Sir William Thomson, who six years ago suggested as a 
-possible solution of this great question that the germs of life 
+*) "Théorie des Volcans. Par le Comte A. de Bylandt Palstercamp." Paris: Levrault. 1838. Tome 1. p. 95.
 
+In the spring of 1871 Professor Helmholtz delivered at Heidelberg and at Cologne a discourse on the origin of the solar system, which he printed in the third collection of his interesting "Populäre wissenschaftliche Vorträge," published last year.* He directed attention on that occasion to the facts that meteorites sometimes contain compounds of carbon and hydrogen, and that the light emitted by the head of a comet gives a spectrum which bears the closest resemblance to that of the electric light when the arc is surrounded by a gaseous hydrocarbon. Carbon is the characteristic element of the organic compounds of which all things living are built up. "Who can say," he asks, "whether these bodies which wander about through space may not also strew germs of life where a new heavenly body has become fitted to offer a habitat to organized creatures?" The hypothesis, in the form set forth in 1871 by Professor Helmholtz and Sir William Thomson, was vigorously handled by Zöllner, of Leipzig, whose work, "Über die Natur der Cometen," appeared in the following year. In the _Vorrede_ of his book he passes his countryman by unmentioned, but declares Sir William Thomson's proposition to be unscientific, and that in a twofold sense. In the first place, he maintains it is unscientific in a formal or logical sense, in that it changes the original _simple_ question, Why has our earth become covered with organisms? into a second, Why had that heavenly body the fragment of which fell upon our planet become covered with vegetation, and not our earth itself? "If, however," he adds, "bearing in mind an earlier dictum,* we regard inorganic and organic matter as two substances from all eternity diverse, just as in accordance with our present views we consider two chemical elements to be diverse, such an hypothesis as that now advanced must be at variance with the destructibility of organisms by heat which experience has taught us."
 
-_ might have been borne to our globe by the meteorites which 
+*) He alludes here in a note to the theory held by Laplace and others.
 
+*) "Populäre wissenschaftliche Vorträge. Von H. Helmholtz." Braunschweig: Vieweg und Sohn. 1876. Drittes Heft. p. 135.
 
-are scattered through space, and which from time to time fall 
+"Again," contends Zöllner, "the hypothesis in its _material_ bearing is unscientific. When a meteorite plunges with planetary velocity into our atmosphere, the loss of _vis viva_ arising from friction is converted into heat, which raises the temperature of the stone to a point where incandescence and combustion take place. This, at all events, is the theory at present generally held to explain the phenomena of star-showers and fire-balls. A meteorite, then, laden with organisms, even if it could withstand the sundering of the parent mass unscathed, and should take no part in the general rise of temperature resulting from this disruption, must of necessity traverse the earth's atmosphere before it could deliver at the earth's surface organisms to stock our planet with living forms."
 
+Helmholtz did not long delay in replying to Zöllner's criticism on this question. An opportunity occurred during the publication, in the following year, 1873, of the second part of the German translation of Thomson and Tait's "Handbook of Theoretical Physics." The preface contains Helmholtz's answer.* He points to the fact, confirmed by numerous observers, that the larger meteoric stones, during their transit through our atmosphere, become heated only on the outer surface, the interior remaining cold --- often very cold. Germs which may happen to lie in the crevices of such stones would be protected from scorching while travelling through the air. Those, moreover, which lie on or near the surface of the aerolite would, as soon as it entered the upper and and most attenuated strata of our atmosphere, be blown off by the swift and violent current of air long ere the stone can rend those denser layers of our gaseous envelope where compression is sufficiently great to cause a perceptible rise of temperature. As regards that other point of debate, referred to by Thomson only, the collision of two cosmical masses, Helmholtz shows that the first result of contact would be violent mechanical movement, and that it is only when they begin to be worn down and destroyed by friction that heat would be developed. It is not known whether this may not continue for hours or days, or even weeks. Such portions as at the first moment of contact are hurled away with planetary velocity may consequently be driven from the scene of action before any rise of temperature may have taken place. "It is not impossible," he adds, "that a meteorite or a swarm of meteorites, in traversing the upper layers of the atmosphere of a heavenly body, may either scatter from them or carry with them a quantity of air containing unscorched germs. These are possibilities which are not yet to be taken as probabilities; they are questions which, from the fact of their existence and range, are to be kept in sight, so that, should a case arise, they may receive an answer either by actual observations or by some conclusive deduction." It should be mentioned here that these views of Helmholtz's are also to be met with in a supplement to his lecture on the origin of the solar system.
 
-upon the surface of our planet. If, he maintained, we trace 
+*) "Dead matter cannot become living matter unless it be subject to the influence of matter already living."
 
+*) "Über die Natur der Cometen. Von J. C. F. Zöllner." Leipzig: Engelmann. 1872. p. 24.
 
-back the physical history of our earth, we are brought to a red- 
+In tracing the gradual development of this important controversy we now arrive at the present year, and proceed to discuss the allusion made to it by Professor Allen Thomson in his address at Plymouth. The difficulty regarding the origin of life is, he considers, not abolished, but only removed to a more remote period, by the supposition of the transport of germs from another planet, or their introduction by means of meteorites or meteoric dust; for, besides the objection arising from the circumstance that these bodies must have been subjected to a very high temperature, we should still have everything to learn as to the way in which the germs arose in the far distant regions of space from which they have been conveyed. At one of the Sectional meetings, a few days later, Sir William Thomson made these observations the text of a further communication on the now well-worn subject. He desired to limit the discussion to the bare dry question, Was life possible on a meteorite? The hypothesis which was to explain the bringing of life to our earth did not pretend to explain the origin of life, and he would not attempt to offer an explanation of the origin of life. The three questions which presented themselves were these: Was life possible on a meteorite moving in space? Was life possible on a meteorite while falling to the earth's surface? and, Could any germs live after the meteorite had become imbedded in the earth? A meteorite may be exposed to great heat before it reaches the earth; whether or not life on that meteorite would be destroyed by that heat was dependent on the duration of exposure. If a meteorite traversed space with the same side always exposed to the sun that side would be strongly heated, the other would be cold; if it spun round at a uniform rate all its surface would be of one uniform temperature; and if it rotated once per hour it would have a high temperature on one side and be as cold as ice on the other. The whole or part of the surface of a meteorite might afford a climate suitable to some living forms, destructive to others. When the moss-covered stone enters the atmosphere the germs upon its surface would be torn off long before the stone became heated, and in a few years they may settle down on the earth, take root, and grow. But were the germs of the exterior destroyed by heat, there might still be vegetable life in the interior. The time occupied by a stone in its passage through the air would not be more than twenty or thirty seconds at the outside, so that the crust might be fused, while the interior might have a moderate temperature, and anything alive in it would fall to the earth alive. Sir William Thomson concluded by remarking that after the collision of cosmical masses fragments must be shot off, some of which must certainly carry away living things not destroyed by the shock of the collision, and he did not hesitate to maintain, as a not improbable supposition, that at some time or other we should have growing on this earth a plant of meteoric origin. At this particular stage of the debate (so we are informed by "The Western Morning News") some one attending the meeting of the Section introduced the Colorado Beetle, and this was held to be irresistibly funny; then someone else got up and said he was an Irishman, which was judged to be even funnier still. At length another speaker arose to breathe the hope that when Papa Colorado Beetle dropped down on a meteorite he would leave Mamma Colorado Beetle behind, which was felt to be far and away the funniest thing of all. Some of the Associates, however --- men who had not yet learned to know the length and depth of scientific "wit" --- began to feel uneasy; and although a gallant effort appears at this juncture to have been made to win back their confidence by assuring them that meteorites really do not contain organic matter of any kind, the Section was not to be comforted till the telephone was set a-going But to return.
 
+*) "Handbuch der theoretischen Physik. Von W. Thomson und P. G. Tait." Übersetzung von H. Helmholtz und G. Wertheim. Braunschweig: Vieweg und Sohn. 1874. Erster Band. Zweiter Teil. 11.
 
-~ hot melted globe on which no life could exist. The earth was 
+Nothing bearing the semblance of a plant or even of its seed has as yet been met with in a meteorite; nor have any of the masses which have fallen on our planet shown anything approaching the structure which distinguishes sedimentary rocks from those of a purely plutonic character. The occurrence, however, in them, or with them, of organic compounds, of compounds of carbon and hydrogen, which it is hard to suppose could owe their existence to any other agency than that of life itself, and which represent the final stage previous to their final destruction, has now been so frequently noticed that I have put together in chronological order what information in this direction from a "world ayont" the meteorites have brought to us.
 
-
-first fit for life, and there was no living thing upon it. Can 
-any probable solution, consistent with the ordinary course of 
-nature, be found to explain the problem of its first appearance ? 
-When a lava stream flows down the side of Vesuvius or Etna 
-it quickly cools and becomes solid, and after a few weeks or 
-years it teems with vegetable and animal life, which life 
-originated by the transport of seed and ova and by the migra- 
-tion of individual living creatures. When a volcanic island 
-emerges from the sea, and after a few years is clothed with 
-vegetation, we do not hesitate to assume that seed has been . 
-waited to it through the air, or floated to it on rafts. Is it not 
-possible—and if possible, is it not probable-—that the beginning 
-of vegetable life on the earth may be similarly explained? 
-Every year thousands, probably millions, of fragments of solid 
-matter fall upon the earth. Whence came they? What is the 
-previous history of any one of them? Was it created in the 
-beginning of time an amorphous mass? The idea is so un- 
-
-
-| 4 
-| | 
-. 
-| 
-‘ 
-| 
-} 
-| 
-
-
-METEORITES, AND THE ORIGIN OF LIFE. 391 
-
-
-acceptable that, tacitly or explicitly, all men discard it. It is 
-often assumed that all, and it is certain that some, meteorites 
-are fragments severed from larger masses and launched free into 
-space. It is as sure that collisions must occur between great 
-masses moving through space as it is that ships, steered without 
-intelligence directed to prevent collisions, could not cross and re- 
-
-
-—_ eross the Atlantic for thousands of years with immunity from such 
-
-
-catastrophes. When two great masses come into collision in 
-space it is certain that a large part of each of them is melted ; 
-but it appears equally certain that in many cases a large quantity 
-
-
-of débris must be shot forth in all directions, much of which may 
-have been exposed to no greater violence than individual pieces - 
-
-
-of rock experience in a landslip or in blasting by gunpowder. 
-Should the time when this earth comes into collision with 
-
-
-another body, comparable in dimensions to itself, be when it is 
-
-
-still clothed, as at present, with vegetation, many great and 
-small fragments carrying seed and living plants and animals 
-
-
-would undoubtedly be scattered through space. Hence and © 
-because we all confidently believe that there are at present, and - 
-
-
-have been from time immemorial, many worlds of life besides 
-
-
-our own, we must regard it as probable in the highest degree 
-
-
-that there are countless seed-bearing meteoric stones moving 
-
-
-- about through space. If at the present instant no life existed 
-upon this earth, one such stone falling upon it might lead to its 
-
-
-becoming covered with vegetation. ‘Iam fully conscious,” he 
-concludes, “of the many scientific objections which may be 
-urged against this hypothesis, but I believe them to be all 
-answerable. . . . The hypothesis that life originated on 
-this earth through moss-grown fragments from the ruins of 
-another world may seem wild and visionary; all I maintain is 
-that it is not unscientific.” * 
-
-
-Sir William Thomson’s views, thus plainly set forth, did not . 
-
-
-fail to attract adverse criticism. Before we proceed to ‘consider 
-the comments which his hypothesis called forth, we may call 
-the reader’s attention for a short time to speculations in the same 
-direction which have appeared in the writings of scientific men 
-in France and Germany. 
-
-
-First, we must refer to a remarkable passage in the great 
-
-
-work of Count A. de Bylandt Palstercamp, on the Theory 
-of Volcanos.t| He wrote in 1835, at a time when Laplace’s 
-theory that meteorites were hurled at us from lunar volca- 
-noes was still generally received, and this will account to some 
-
-
-* Address of Sir William Thomson, Knt., LL.D., F.R.S., President.” 
-London: Taylor and Francis. 1871. P. 27. 
-
-+ “Théorie des Volcans. Par le Comte A. de Bylandt Palstercamp.” 
-Paris: Levrault. 1838. Tome i. p. 95, 
-
-
-| 
-| | 
-A | 
-are hea 
-| 
-; 
-
-
-extent for the source of the cosmical masses of which he 
-
-
-392 | POPULAR SCIENCE REVIEW. 
-
-
-treats. What is mainly worthy of notice is their character, of 
-carriers of the faculty of organization, which he attributes to them. 
-In the chapter intituled “Principe d’aprés lequel le premier 
-développement de notre globe peut s’étre effectué ?” he writes: 
-‘Tt may be a matter of curiosity, but it is in nowise necessary, 
-that we should know on what principle or from what organized 
-body the great mass of our globe has been derived ; it is suffi- 
-cient for us that we exist in a manner where everything is per- 
-fectly organized, at least in so far as the aim of our existence 
-is concerned. Many scientific men have exercised their imagi- 
-nation on this problem without being able to come to any 
-definite decision. Some maintain that the nucleus of our globe 
-was a fragment of a body which in its cosmical path had dashed 
-itself into fragments against the sun, which the very close prox- 
-imity of some comet to that star gives grounds for believing. 
-
-Others suppose us to be a vast aerolite thrown off from the sun 
-himself * with a force proportional to its mass, to a zone where 
-the motion is determined in accordance with the laws of recip- 
-rocal attraction, and that this fragment carried in itself the 
-germ of all that organization which we see around us, and of. 
-
-
-which we form a part. (Que cet éclat portait en lui le germe 
-
-
-de toute cette organisation que nous observons ici et dont 
-nous faisons partie.) They suppose the satellites to be small 
-parts or fragments detached from the chief mass by the violence 
-of the rotation at the time it is hurled forth, or by the exces- 
-
-
-sively high original temperature, increased by the fall, which. 
-
-
-produced a very violent dilatation of the matter, and severed 
-some portions from it. These aerolites, it is said, by way of 
-comparison, contain within them the principle common to the 
-body whence they have been derived, just as a grain of seed 
-
-
-. carried by the wind is able to produce at a remote distance a 
-
-
-tree like its prototype, with such modifications only as are due 
-to soil or climate.” 
-
-In the spring of 1871 Professor Helmholtz delivered at 
-Heidelberg and at Cologne a discourse on the origin of the 
-solar system, which he printed in the third collection of his 
-
-
-interesting “ Populaire wissenschaftliche Vortrage,” published 
-
-
-last year.t| He directed attention on that occasion to the facts 
-that meteorites sometimes contain compounds of carbon and 
-hydrogen, and that the light emitted by the head of a comet 
-gives a spectrum which bears the closest resemblance to that 
-
-
-* He alludes here in anote to the theory held by Laplace and others. | 
-+t “Populire wissenschaftliche Vortrige. Von H. Helmholtz.” Braun- 
-schweig: Vieweg und Sohn. 1876, Drittes Heft. p. 135. 
-
-
-| 
-« 
-{ 
-; 
-4 
-
-
-METEORITES, AND THE ORIGIN OF LIFE. | 393 
-
-
-of the electric light when the are is surrounded by a gaseous 
-hydrocarbon. Carbon is the characteristic element of the 
-organic compounds of which all things living are built up. 
-“Who can say,” he asks, “ whether these bodies which wander 
-about through space may not also strew germs of life where a 
-new heavenly body has become fitted to offer a habitat to 
-organized creatures?” The hypothesis, in the form set forth in 
-1871 by Professor Helmholtz and Sir William Thomson, was 
-vigorously handled by Zollner, of Leipzig, whose work, “ Ueber 
-die Natur der Cometen,” appeared in the following year. In 
-the Vorrede of his book he passes his countryman by unmen- 
-tioned, but declares Sir William Thomson’s proposition to be 
-unscientific, and that in a twofold sense. In the first place, he | 
-maintains it is unscientific in a formal or logical sense, in that 
-it changes the original svmple question, Why has our earth | 
-become covered with organisms? into a second, Why had that 
-heavenly body the fragment of which fell upon our planet 
-become covered with vegetation, and not ourearth itself? ‘Tf, 
-however,” he adds, “bearing 1 in mind an earlier dictum,* we regard 
-inorganic and organic matter as two substances from all eternity 
-diverse, just as in accordance with our present views we con- 
-sider two chemical elements to be diverse, such an hypothesis 
-as that now advanced must be at variance with the destructi- 
-bility of organisms by heat which experience has taught us.” 
-
-“Again,” contends Zollner, “the hypothesis in its material 
-bearing is unscientific. When a meteorite plunges with pla- 
-netary velocity into our atmosphere, the loss of vis viva arising 
-from friction is converted into heat, which raises the tempera- 
-ture of the stone to a point where incandescence and combus- 
-tion take place. This, at all events, is the theory at present 
-generally held to explain the phenomena of star-showers and — 
-fire-balls. A meteorite, then, laden with organisms, even if it 
-could withstand the sundering of the parent mass unscathed, 
-and should take no part in the general rise of temperature 
-resulting from this disruption, must of necessity traverse the 
-earth’s atmosphere before it could deliver at the earth’s surface 
-organisms to stock our planet with living forms.” 
-
-Helmholtz did not long delay in replying to Zollner’s criti- 
-cism on this question. An opportunity occurred during the 
-publication, in the following year, 1873, of the second part of 
-the German translation of Thomson and Tait’s “ Handbook of 
-Theoretical Physics.” The preface contains Helmholtz’s 
-
-
-* «Dead matter cannot ‘ge living matter unless it be subject to the 
-influence of matter already living.” 
-
-
-+ “Ueber die Natur der Cometen. Von J. C. F. Zollner.” Leipzig: 
-Engelmann. 1872. p. 24. 
-
-
-NEW SERIES, VOL. I.—NO. IY. DD 
-
-
-7 | 
-| 
-% 
-| 
-. 
-; 
-; 
-i 
-| 
-| 
-| 
-
-
-394 POPULAR SCIENCE REVIEW. 
-
-
-answer.* He points to the fact, confirmed by numerous ob- 
-servers, that the larger meteoric stones, during their transit 
-through our atmosphere, become heated only on the outer sur- 
-face, the interior remaining cold—often very cold. Germs 
-which may happen to lie in the crevices of such stones would 
-be protected from scorching while travelling through the air. 
-Those, moreover, which lie on or near the surface of the aerolite 
-would, as soon as it entered the upper and and most attenuated 
-strata of our atmosphere, be blown off by the swift and violent 
-current of air long ere the storie can rend those denser layers of 
-our gaseous envelope where compression is sufficiently great to 
-
-
-cause a perceptible rise of temperature. As regards that other 
-
-
-point of debate, referred to by Thomson only, the collision 
-
-
-of two cosmical masses, Helmholtz shows that the first result.of.. «! ~ 
-
-
-contact would be violent mechanical movement, and that it is 
-only when they begin to be worn down and destroyed by 
-friction that heat would be developed. It is not known 
-whether this may not continue for hours or days, or even 
-
-
-weeks. Such portions as at the first moment of contact are 
-
-
-hurled away with planetary velocity may consequently be 
-driven from the scene of action before any rise of temperature 
-may have taken place. “It is not impossible,” he adds, “ that 
-a meteorite or a swarm of meteorites, in traversing the upper 
-layers of the almosphere of a heavenly body, may either scatter 
-from them or carry with them a quantity of air containing 
-unscoreched germs. These are possibilities which are not yet to 
-be taken as probabilities; they are questions which, from the 
-
-
-_ fact of their existence and range, are to be kept in sight, so that, 
-
-
-should a case arise, they may receive an answer either by actual 
-
-
-_ Observations or by some conclusive deduction.” It should be 
-
-
-mentioned here that these views of Helmholtz’s are also to be 
-met with in a supplement to his lecture on the origin of the sola: 
-system. 
-
-In tracing the gradual development of this important contro- 
-versy we now arrive at the present year, and proceed to discuss 
-the allusion made to it by Professor Allen Thomson in his 
-address at Plymouth. The difficulty regarding the origin 
-of life is, he considers, not abolished, but only removed to a 
-more remote period, by the supposition of the transport of germs 
-from another planet, or their introduction by means of me- 
-teorites or meteoric dust; for, besides the objection arising 
-
-
-from the circumstance that these bodies must have been sub- 
-
-
-jected to a very high temperature, we should still have every- 
-thing to learn as to the way in which the germs arose in the 
-
-
-* “fandbuch der theoretischen Physik. Von W. Thomson und P.G. 
-Tait.” Uebersetzung von H. Helmholtz und G. Wertheim. Braunschweig : 
-
-
-Vieweg und Sohn. 1874, Erster Band. Zweiter Theil. 11. 
-
-
-| 
-i 
-
-
-METEORITES, AND THE ORIGIN OF LIFE. 395 
-
-
-far distant regions of space from which they have been con- 
-veyed. At one of the Sectional meetings, a few days later, Sir 
-
-
-William Thomson made these observations the text of a further 
-
-
-communication on the now well-worn subject. He desired to 
-
-
-limit the discussion to the bare dry question, Was life possible - 
-
-
-on a meteorite? The hypothesis which was to explain the 
-
-
-bringing of life to our earth did not pretend to explain the . 
-
-
-origin of life, and he would not attempt to offer an explanation 
-
-
-of the origin of life. The three questions which presented 
-
-
-themselves were these: Was life possible on a meteorite mov- 
-Ing in space? Was life possible on a meteorite while falling to 
-the earth’s surface? and, Could any germs live after the me- 
--teorite had become imbedded ; in the earth? <A meteorite may 
-_ be exposed to great heat before it reaches the earth; whether 
-
-
-or not life on that meteorite would be destroyed by that heat — 
-
-
-that side would be strongly heated, the other would be cold ; 
-
-
-if it spun round at a uniform rate all its surface would be of 
-
-
-one uniform temperature; and if it rotated once per hour it 
-would have a high temperature on one side and be as cold as 
-
-
-ice on the other. The whole or part of the surface of a me- 
-teorite might afford a climate suitable to some living forms,. 
-
-
-destructive to others. When the moss-covered stone enters the 
-atmosphere the germs upon its surface would be torn off long 
-
-
-before the stone became heated, and in a few years they may 
-settle down on the earth, take root, and grow. But were the 
-germs of the exterior destroyed by heat, there might still be 
-
-vegetable life in the interior. The time occupied by a stone 
-
-
-in its passage through the air would not be more than twenty 
-
-
-_ dependent on the duration of exposure. If a meteorite 
-traversed space with the same side always exposed to the sun 
-
-
-or thirty seconds at the outside, so that the crust might be— 
-
-
-fused, while the interior might have a moderate temperature, 
-
-
-and anything alive in it would fall to the earth alive. Sir 
-
-
-William Thomson concluded by remarking that after the 
-collision of cosmical masses fragments must be shot off, some 
-of which must certainly carry away living things not destroyed 
-by the shock of the collision, and he did not hesitate to main- 
-tain, as a not improbable supposition, that at some time or 
-other we should have growing on this earth a plant of meteoric 
-origin. At this particular stage of the debate (so we are 
-informed by “The Western Morning News”) some one attend- 
-ing the meeting of the Section introduced the Colorado Beetle, 
-and this was held to be irresistibly funny; then someone 
-else got up and said he was an Irishman, which was judged 
-to be even funnier still. At length another speaker arose to 
-breathe the hope that when Papa Colorado Beetle dropped 
-down on a meteorite he would leave Mamma Colorado Beetle 
-DD2 
-
-
-| 
-| 
-| 
-t 
-| 
-
-
-396 POPULAR SCIENCE REVIEW. 
-
-
-behind, which was felt to be far and away the funniest thing 
-of all. Some of the Associates, however—men who had not yet 
-learned to know the length and depth of scientific “ wit ”— 
-began to feel uneasy; and although a gallant effort appears at 
-this juncture to have been made to win back their confidence by 
-assuring them that meteorites really do not contain organic 
-matter of any kind, the Section was not to be comforted till the. 
-telephone was set a-going But to return. 
-
-Nothing bearing the semblance of a plant or even of its seed 
-_ has as yet been met with in a meteorite; nor have any of the 
-masses which have fallen on our planet shown anything ap- 
-proaching the structure which distinguishes sedimentary rocks 
-from those of a purely plutonic character. The occurrence, 
-however, in them, or with them, of organic compounds, of com- 
-pounds of carbon and hydrogen, which it is hard to suppose could 
-owe their existence to any other agency than that of life itself, 
-
-_and which represent the final stage previous to their final destrue- 
-tion, has now been so frequently noticed that I have put 
-together in chronological order what information in this direction 
-from a “ world ayont” the meteorites have brought to us. 
-
-1806. March 15th, 5 p.m—Two stones, weighing together 
+1806. March 15th, 5 p.m---Two stones, weighing together 
 six kilogr., fell at Alais, Dép. du Gard, France. They have 
 the appearance of an earthy variety of coal ; the colour of the 
 crust is a dull brownish-black, so is that of the interior. The. 
@@ -548,7 +59,7 @@ and dissolve in cold sulphuric acid, striking a brown colour;
 and rhombic crystals, which dissolve in ether and carbon disul- 
 phide, but are unaffected by cold nitric acid, sulphuric acid, or 
 turpentine. An analysis of 0°0078 gramme of the crystals 
-soluble in alcohol gave the following numbers :— 
+soluble in alcohol gave the following numbers :--- 
 
 
 Sulphurous acid . 0.010 
@@ -572,14 +83,14 @@ point of kénleinite 114° C. ; it is slightly soluble in alcohol, but |
 much more soluble in ether. Dr. Lawrence Smith, who has 
 
 
-— recently examined the Alais meteorite, arrives at the same results 
+--- recently examined the Alais meteorite, arrives at the same results 
 
 
 as Roscoe; and also that the carbonaceous ingredient of this 
 meteorite resembles in all its physical characters those of a sub- 
 stance which he obtained from the graphite of the Sevier- 
 County meteoric iron, to which I shall presently refer. 
-1838. October 13th, 9 a.m.—At the hour mentioned a> 
+1838. October 13th, 9 a.m.---At the hour mentioned a> 
 great number of large stones fell over a considerable area at 
 
 
@@ -609,15 +120,15 @@ is unusually high. In the interval this organic compound
 has sublimed, and is deposited on the higher parts of the vessel 
 in colourless and well-defined crystalline plates. 
 
-1840.—During this year a large mass of meteoric iron 
+1840.---During this year a large mass of meteoric iron 
 was discovered in Sevier County, Tennessee, enclosing a large 
-nodule of graphite. “It is,” writes Dr. Lawrence Smith, “the 
+nodule of graphite. "It is," writes Dr. Lawrence Smith, "the 
 
 
 _ largest mass of graphite which has come under my observa- 
 
 
-tion, and is perhaps the largest known.” Its dimensions are 
+tion, and is perhaps the largest known." Its dimensions are 
 60™™ by 20™" and 35™™, and it weighs 92 grammes. Two 
 grammes of this nodule were reduced to powder and treated with 
 
@@ -648,16 +159,16 @@ then volatilizes, condensing in yellow drops, and leaving a carbo-
 naceous residue. Dr. Lawrence Smith believes that the three 
 elements, carbon, hydrogen, and sulphur, which they contain, may 
 be in combination, and he has named the meteoric nepenyere- 
-carbon celestialite.” 
+carbon celestialite." 
 
-1857. Apri 15th, 10.11 p.m.—A brilliant detonating me- 
+1857. Apri 15th, 10.11 p.m.---A brilliant detonating me- 
 teor was observed at this hour over Kaba, 8.W. of Debreczin, 
 Hungary, and a meteorite weighing 4 kilogr. was found on the 
-following morning imbedded in the hard surface of a road close — 
+following morning imbedded in the hard surface of a road close --- 
 by. The crust is black, and the mass of the stone dark grey ; 
 throughout the structure black portions of the size of peas lie 
 scattered, giving the stone a porphyritic character. Wohler 
-treated the stone with alcohol, which removed a white, ap- — 
+treated the stone with alcohol, which removed a white, ap- --- 
 parently crystalline, substance possessing a peculiar aromatic 
 odour. With ether it broke up into oily drops, and appeared to 
 be decomposed into an insoluble fluid body and a soluble solid 
@@ -670,14 +181,14 @@ or scheererite. When the powdered stone is heated in oxygen it
 turns of a cinnamon-brown colour. This meteorite contains 
 0°58 per cent. of carbon. 
 
-1861.—The huge mass of meteoric iron discovered at Cran-. 
+1861.---The huge mass of meteoric iron discovered at Cran-. 
 boune, near Melbourne, Australia, in 1861, encloses more or less 
 rounded masses of carbon. They are pronounced by Berthelot, 
 who has submitted some of thesmaterial to the most powerful 
 oxidizing reagents, to resemble the form of carbon which sepa- 
 rates from cast-iron on cooling rather than native graphite. 
 
-1864. May 14th, 8 p.m.—On this occasion more than twenty 
+1864. May 14th, 8 p.m.---On this occasion more than twenty 
 stones fell at Montauban, Tarn et Garonne, France, some of 
 them being as large as a human head, and most of them smaller 
 than afist. The appearance which this meteorite exhibits closely 
@@ -687,7 +198,7 @@ this is due to the removal of the soluble salts which cement the
 ingredients together. A shower of rain would have destroyed 
 them. One hundred parts of this stone contain 5:92 parts of 
 carbon itself, partly as a constituent of one organic compound, 
-_ which Cloéz found to possess the following composition :— 
+_ which Cloéz found to possess the following composition :--- 
 
 
 100:00 
@@ -711,7 +222,7 @@ in this case than in that of coal. Dr. Lawrence Smith finds .
 the combustible portion of the material to amount to about 4°5 
 per cent. 
 
-1867.—This Indian meteorite, which fell at Goalpara about 
+1867.---This Indian meteorite, which fell at Goalpara about 
 the year 1867 (the exact date is not known), was examined by 
 Tschermak, who found itto contain 0°85 percent. of a hydrocarbon. | 
 The quantity, though small, materiallyaffects the general appear- 
@@ -719,11 +230,11 @@ ance of the stone; it can be recognized under the microscope as a
 smoky-brown, lustreless ingredient accompanying the fragments 
 of nickel-iron. Of the 0°85 per cent. 0°72 is carbon and 0°13 
 hydrogen. Tschermak suggests that the luminous phenomena 
-so often attending the fall of an aerolite and the “tail” left by 
+so often attending the fall of an aerolite and the "tail" left by 
 many meteors and shooting stars may be due to the combustion 
 of compounds of which carbon forms an important constituent. 
 
-1868. July 11th.—The curious meteorite of dull grey hue 
+1868. July 11th.---The curious meteorite of dull grey hue 
 
 
 -and loose structure which fell on this day at Ornans, Doubs, 
@@ -732,8 +243,8 @@ of compounds of which carbon forms an important constituent.
 France, partly owes its dark colour to the presence of a hydro- 
 carbon. 
 
-1869. Ist, 12.20 p.m.—A most remarkable fall of 
-stones took place on New Year’s Day, 1869, at Hessle, near 
+1869. Ist, 12.20 p.m.---A most remarkable fall of 
+stones took place on New Year's Day, 1869, at Hessle, near 
 Upsala; it is the first aerolitic shower recorded to have taken 
 place in Sweden. The meteorites have so loose a structure 
 that they break in pieces when thrown with the hand against 
@@ -760,7 +271,7 @@ tractible by the magnet, and when ignited left a reddish-brown
 
 ash. Heated in a closed tube it gave asmall brown distillate. A 
 
-qunly dried at 110°C. pessessed the following composition :— 
+qunly dried at 110°C. pessessed the following composition :--- 
 
 
 Magnesia . 15 
@@ -791,7 +302,7 @@ occurs in association with the meteorites, and he attributes its
 preservation in this case to the fall of the stones on snow-covered 
 ground. | | | 
 
-1870.—During this year the Swedish Arctic Expedition 
+1870.---During this year the Swedish Arctic Expedition 
 discovered in the basalt of Ovifak, near Godhavn, Island of 
 Disko, Greenland, some enormous metallic masses which are 
 generally regarded as blocks of meteoric iron. Like meteoric 
@@ -801,11 +312,11 @@ moreover, when heated evolves more than 100 times its
 volume of a gas which burns with a pale blue flame, and is car- 
 bonic oxide mixed with a little carbonic acid; after this treat- 
 ment the substance dissolves in acid, leaving a carbonaceous ~ 
-residue. The composition of this remarkable “iron,” if we 
+residue. The composition of this remarkable "iron," if we 
 
 
 may call it by that name, has been found by Wohler to be as 
-follows :— | 
+follows :--- | 
 
 
 Tron . ; ‘ : &0°64 
@@ -824,13 +335,13 @@ isolated particles, | |
 
 From ail this we see though there is not a particle of evi- 
 dence to prove the persistence of living germs on meteorites 
-during their passage through our atmosphere, it is quite clear — 
+during their passage through our atmosphere, it is quite clear --- 
 that the cosmical bodies, whatever they may have been, from 
 which our meteorites were derived, may very probably have 
 borne on their surface some forms of organized beings. __ 
 
 One objection which appears to have been raised to Sir 
-William Thomson’s theory was to the effect that germs could 
+William Thomson's theory was to the effect that germs could 
 not exist without air; another that the low temperature to 
 
 
@@ -863,7 +374,7 @@ which they would be exposed before entering our atmosphere
 would suffice to destroy life. Micheli, in his valuable Coup 
 
 
-d’oil sur les principales publications de Physiologie 
+d'oil sur les principales publications de Physiologie 
 végétale, refers to the researches of Uloth,* who found that 
 twenty-four species of plants which had been placed in a cave 
 in the centre of a glacier germinated after the lapse of six weeks. 
@@ -899,4 +410,4 @@ contained in their tissues. In three experiments 58, 32, and
 40 per cent. of the seeds germinated. 
 
 
-Flora,” 1875, No. it. 
+Flora," 1875, No. it. 
