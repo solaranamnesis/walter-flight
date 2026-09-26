@@ -4,7 +4,7 @@
 
 ### Of the Department of Mineralogy, British Museum; Examiner in Chemistry and Physics, Royal Military Academy.
 
-#### _Popular Science Review_: 1877. Volume 1, Issue 4.
+#### _Popular Science Review_. 1877. Volume 1, Issue 4.
 
 ---
 
