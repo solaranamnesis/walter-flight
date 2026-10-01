@@ -11,7 +11,7 @@ French - PDF
 
 ##  A Chapter in the History of Meteorites.
 
-English - Plain Text  
+[English - Plain Text](chapter-history-meteorites/full-text-english.md)  
 English - PDF  
 French - Plain Text  
 French - PDF  
