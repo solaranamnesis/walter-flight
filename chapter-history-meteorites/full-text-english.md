@@ -1,129 +1,78 @@
-PREFACE. 
+# A Chapter in the History of Meteorites.
 
-OF the arduous literary task undertaken by the author, only the 
-first two divisions referred to on pages 1 and 2 --- namely, digests of 
-the memoirs relating to meteorites published since 1868 --- are here 
-presented to the student. The remaining divisions, including that 
-which would have dealt with the methods which have been proposed 
-for the chemical analysis of meteorites, and for the discussion of 
-which Dr. FLIGHT was so well qualified, were still unwritten at the 
-time of his death. 
+### By the late
 
-The first 144 pages were printed off twelve years ago, after revision 
-by the author himself, at a time when he looked forward to the 
-speedy completion of the work : the proofs of the remainder have 
-been read and arranged for press, and where needful have been 
-compared with the original memoirs. 
+## Walter Flight, D. Sc. Lond., F. R. S.
 
-To facilitate reference to the Articles an Index to the names and 
-synonyms of the meteorites has been added. 
+#### With seven Plates and six Woodcuts.
 
+[_Reprinted from the Geological Magazine with some additional Notes by the Author._]
 
-WALTER FLIGHT, D.Sc. (LOND.), F.R.S., F.G.S. 
+### London: Dulau & Co., 37, Soho Square, W.
 
-"WALTER FLIGHT was the son of William P. Flight, of Winchester, in 
-which city he was horn on the 21st of January, 1841. He was sent, 
-after a period of pupilage at home, to Queenwood College, Hampshire, 
-in the days when George Edmondson was Head Master, and Tyndall 
-and Debus were the teachers of science. Here he had the good 
-fortune to attract the notice of Prof. Debus, who encouraged the 
-youthful chemist, and in after years remained his constant friend. 
+## 1887.
 
-From Queenwood "Walter Flight went to the University of Halle, 
-to pursue his scientific studies, and in the laboratory of Prof. Heintz 
-he specially applied himself to the study of chemistry during the 
-winter session of 1863-64. 
+---
 
-In 1864 and 1865 he entered the University of Heidelberg, where, 
-in the laboratories of the celebrated Professors Bunsen, Kopp, and 
-Kirchhoff, he devoted himself earnestly to acquire that thorough 
-knowledge of the various branches of theoretical and practical chemis- 
-try, and that marked facility for overcoming experimental difficulties, 
-which characterize the practised and careful worker. 
+---
 
-From Heidelberg Flight passed to the University of Berlin, where 
-he remained until 1867, studying and working in Prof. Hofmann's 
-laboratory, and for a time filling the office of his Secretary and Chemi- 
-cal Assistant. 
+# Preface.
 
-Returning to England in 1867, he graduated D.Sc., in the Univer- 
-sity of London, and in the following year was appointed by the 
-Senate to the office of Assistant-Examiner under Prof. Debus, F.R.S. 
-(his former teacher at Queenwood). 
+Of the arduous literary task undertaken by the author, only the first two divisions referred to on pages 1 and 2 --- namely, digests of the memoirs relating to meteorites published since 1868 --- are here presented to the student. The remaining divisions, including that which would have dealt with the methods which have been proposed for the chemical analysis of meteorites, and for the discussion of which Dr. Flight was so well qualified, were still unwritten at the time of his death.
 
-On the 5th September, 1867, Dr. Flight was appointed an Assistant 
-in the Mineralogical Department of the British Museum, where, under 
-the direction of Professor Nevil Story Maskelyne, M.A., F.R.S., the 
-Keeper of Mineralogy, he carried on a series of researches into the 
-chemical composition of the mineral constituents of meteorites and 
-the occluded gases they contained. 
+The first 144 pages were printed off twelve years ago, after revision by the author himself, at a time when he looked forward to the speedy completion of the work: the proofs of the remainder have been read and arranged for press, and where needful have been compared with the original memoirs.
 
-Many of the methods by which he carried out these investigations 
-were originated by him in the course of his researches, and displayed 
-in a remarkable degree his skill and ingenuity in chemical manipula- 
-tion. 
+To facilitate reference to the Articles an Index to the names and synonyms of the meteorites has been added.
 
+**The Editors.**
 
-viii Obituary Notice. 
+---
 
-Shortly after this date he was appointed Examiner in Chemistry 
-and Physics at the Royal Military Academy, Woolwich, and in 1876 
-Examiner to the Royal Military Academy, Cheltenham. 
+# In Memoriam.
 
-For several years Dr. Flight served on the " Luminous Meteors 
-Committee" of the British Association, to which he gave much valuable 
-assistance. 
+## Walter Flight, D. Sc. (Lond.), F. R. S., F. G. S.
 
-Between the years 1864 and 1883 he was author of numerous 
-original papers; that relating to the Cranbourne, Rowton, and 
-Middlesborough Meteorites appeared in the Philosophical Transac- 
-tions : his researches were also referred to by Prof. Story Maskelyne 
-in two papers on the mineral constituents of the Busti, Manegaum, 
-and Breitenbach Meteorites, read before the Royal Society between 
-1870-71. 
+**Walter Flight** was the son of William P. Flight, of Winchester, in which city he was born on the 21st of January, 1841. He was sent, after a period of pupilage at home, to Queenwood College, Hampshire, in the days when George Edmondson was Head Master, and Tyndall and Debus were the teachers of science. Here he had the good fortune to attract the notice of Prof. Debus, who encouraged the youthful chemist, and in after years remained his constant friend.
 
-In January, 1875, he commenced to publish in the Geological 
-Magazine a series of articles, entitled "A Chapter in the History of 
-Meteorites," of which twelve appeared in that year; nine supple- 
-mental essays followed in 1882, and a final one in February, 1883. 
-These articles form the substance of the present work, some slight 
-additions only having been made by the author to the first part 
-printed in 1875. 
+From Queenwood Walter Flight went to the University of Halle, to pursue his scientific studies, and in the laboratory of Prof. Heintz he specially applied himself to the study of chemistry during the winter session of 1863-64.
 
-In 1880, Dr. Flight married Miss Kate Fell, daughter of Dr. Fell, 
-of Ambleside. 
+In 1864 and 1865 he entered the University of Heidelberg, where, in the laboratories of the celebrated Professors Bunsen, Kopp, and Kirchhoff, he devoted himself earnestly to acquire that thorough knowledge of the various branches of theoretical and practical chemistry, and that marked facility for overcoming experimental difficulties, which characterize the practised and careful worker.
 
-He was elected a Fellow of the Royal Society on June 7th, 1883. 
+From Heidelberg Flight passed to the University of Berlin, where he remained until 1867, studying and working in Prof. Hofmann's laboratory, and for a time filling the office of his Secretary and Chemical Assistant.
 
-In 1884 he was seized by illness which prostrated his mental 
-powers and rendered it needful for him to resign his appointment 
-in the British Museum in June, 1885; but notwithstanding all that 
-medical skill or the affection of friends could devise, he succumbed 
-on the 4th of November, 1885, leaving his widow and three young 
-children to deplore his early loss. 
+Returning to England in 1867, he graduated D. Sc., in the University of London, and in the following year was appointed by the Senate to the office of Assistant-Examiner under Prof. Debus, F. R. S. (his former teacher at Queenwood).
 
-Dr. Flight enjoyed the regard and esteem of a very large circle of 
-scientific men, with many of whom he was on terms of intimate 
-friendship. It is to these more especially that this little Book is 
-dedicated as the last Memorial of a life full of promise, but all too 
-early brought to an abrupt conclusion. 
+On the 5th September, 1867, Dr. Flight was appointed an Assistant in the Mineralogical Department of the British Museum, where, under the direction of Professor Nevil Story Maskelyne, M. A., F. R. S., the Keeper of Mineralogy, he carried on a series of researches into the chemical composition of the mineral constituents of meteorites and the occluded gases they contained.
 
-LIST OF PAPERS 
-PUBLISHED BY DR. WALTER FLIGHT. 
+Many of the methods by which he carried out these investigations were originated by him in the course of his researches, and displayed in a remarkable degree his skill and ingenuity in chemical manipulation.
 
-Ueber Darste^ng und Zusammensetzung des jodsauren Kalks. --- Zeitschr. Gesammt. 
-Naiurwiss. Halle, 1864. 
+Shortly after this date he was appointed Examiner in Chemistry and Physics at the Royal Military Academy, Woolwich, and in 1876 Examiner to the Royal Military Academy, Cheltenham.
 
-Ueber die thermoelectrische Spammng verschiedener Mineralien. --- Ann. Chem. 
-Pharm. Bd. 135, and Phil Mag. vol. 30, 1865. 
+For several years Dr. Flight served on the "Luminous Meteors Committee" of the British Association, to which he gave much valuable assistance.
 
-On the Chemical Composition of a Coin of Bactria (copper-nickel alloy). --- Numismatic 
-Chronicle, vol. viii. p. 305, 1868; Pogg. Ann. Bd. 139, 1870. 
+Between the years 1864 and 1883 he was author of numerous original papers; that relating to the Cranbourne, Rowton, and Middlesborough Meteorites appeared in the Philosophical Transactions: his researches were also referred to by Prof. Story Maskelyne in two papers on the mineral constituents of the Busti, Manegaum, and Breitenbach Meteorites, read before the Royal Society between 1870-71.
 
-[ With Prof. N. S. Maskelyne.] Mineralogical Notices : No. 1, On the Formation 
-of Basic Cupric Sulphates. 2, Opal from Waddela Plain, Abyssinia. 
-3, Francolite from Cornwall. 4, Epidote and Serpentine from lona. 5, Yivia- 
-nite. 6, Cronstedtite. 7, Pholerite. --- Journ. Chem. Soc. vol. ix. 1871. 
+In January, 1875, he commenced to publish in the Geological Magazine a series of articles, entitled "A Chapter in the History of Meteorites," of which twelve appeared in that year; nine supplemental essays followed in 1882, and a final one in February, 1883. These articles form the substance of the present work, some slight additions only having been made by the author to the first part printed in 1875.
+
+In 1880, Dr. Flight married Miss Kate Fell, daughter of Dr. Fell, of Ambleside.
+
+He was elected a Fellow of the Royal Society on June 7th, 1883.
+
+In 1884 he was seized by illness which prostrated his mental powers and rendered it needful for him to resign his appointment in the British Museum in June, 1885; but notwithstanding all that medical skill or the affection of friends could devise, he succumbed on the 4th of November, 1885, leaving his widow and three young children to deplore his early loss.
+
+Dr. Flight enjoyed the regard and esteem of a very large circle of scientific men, with many of whom he was on terms of intimate friendship. It is to these more especially that this little Book is dedicated as the last Memorial of a life full of promise, but all too early brought to an abrupt conclusion.
+
+---
+
+# List of Papers published by Dr. Walter Flight.
+
+Über Darstellung und Zusammensetzung des jodsauren Kalks. --- _Zeitschr. Gesammt. Naturwiss._ Halle, 1864.
+
+Über die thermoelectrische Spannung verschiedener Mineralien. --- _Ann. Chem. Pharm._ Bd. 135, and _Phil. Mag._ vol. 30, 1865.
+
+On the Chemical Composition of a Coin of Bactria (copper-nickel alloy). --- _Numismatic Chronicle_, vol. 8. p. 305, 1868; _Pogg. Ann._ Bd. 139, 1870.
+
+[With Prof. N. S. Maskelyne.] Mineralogical Notices: No. 1, On the Formation of Basic Cupric Sulphates. 2, Opal from Waddela Plain, Abyssinia. 3, Francolite from Cornwall. 4, Epidote and Serpentine from Iona. 5, Vivianite. 6, Cronstedtite. 7, Pholerite. --- _Journ. Chem. Soc._ vol. 9. 1871.
 
 [With Prof. N. S. Maskelyne.] Mineralogical Notices continued : No. 8, Isopyre. 
 9, Percylite. 10, Vanadinite. 11, Uranite. 12, Analyses of some pisolitic 
