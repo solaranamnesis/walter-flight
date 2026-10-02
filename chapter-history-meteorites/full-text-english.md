@@ -122,9 +122,7 @@ It is proposed to deal with the subject under the following four divisions:---
 
 3\. To prepare an exhaustive notice of papers published from 1869-1875 on meteorites:
 
-1\. In their relations to astronomical questions; their probable 
-orbits; the phenomena attending their fall; their distribution 
-on the earth's surface; spectroscopic examination, etc.
+1\. In their relations to astronomical questions; their probable orbits; the phenomena attending their fall; their distribution on the earth's surface; spectroscopic examination, etc.
 
 2\. In respect to better methods of analysis; new catalogues of collections; and the bibliography of this branch of mineralogy.
 
@@ -132,7 +130,7 @@ on the earth's surface; spectroscopic examination, etc.
 
 ## Part 1.
 
-### 1869, January 1st, 12 h. 20 m. p. p. --- Hessle, near Upsala.*
+### 1869, January 1st, 12h. 20m. p. m. --- Hessle, near Upsala.*
 
 This is the first meteoric fall recorded to have taken place in Sweden. The sky was cloudy, and, though apparently unobserved at Hessle, a luminous meteor was noticed by observers at a distance. The noise accompanying the fall resembled heavy peals of thunder, followed by a rattling noise as of waggons at a gallop, and ending at first with a note like an organ tone, and then a hissing sound. The stones were strewn over a line of country lying 30° E. of S. towards 30° W. of N. Some of them fell within a few yards of a number of peasants who were coming out of church; one struck the ice close to a man who was fishing on the Mälar Lårsta-Viken, and after digging a hole three or four inches deep, rebounded; when picked up, it was still warm.
 
@@ -157,325 +155,90 @@ In the following table are given: under 1. the oxygen ratios of the mean of the 
 | Alumina        | 1.431     | 0.03        | 1.401           |
 | Soda           | 0.358     | 0.31        | 0.048           |
 
-In the soluble part the oxygen ratios do not widely differ from 
-those of an olivine, while the atomic ratio of iron oxide to magnesia, 
-nearly 1 to 4, is that observed in many meteoric olivines ; among 
-others those of the aerolites of Chantonnay, Oesel, and Richmond. 
-From the fact that in Nordenskjold's analysis the soluble portion was 
-collected after the powdered mineral had been digested for a long time 
-with warm concentrated acid, it is certain that some portion of any 
-bronzite or enstatite that might be present would undergo decompo- 
-sition, and this would explain the slight excess over 1 to 1 in the oxygen 
-ratios of acid and total bases in the insoluble part. This insoluble 
-portion, it will be seen, appears to be chiefly bronzite, and here again 
+In the soluble part the oxygen ratios do not widely differ from those of an olivine, while the atomic ratio of iron oxide to magnesia, nearly 1 to 4, is that observed in many meteoric olivines; among others those of the aerolites of Chantonnay, Oesel, and Richmond. From the fact that in Nordenskjöld's analysis the soluble portion was collected after the powdered mineral had been digested for a long time with warm concentrated acid, it is certain that some portion of any bronzite or enstatite that might be present would undergo decomposition, and this would explain the slight excess over 1 to 1 in the oxygen ratios of acid and total bases in the insoluble part. This insoluble portion, it will be seen, appears to be chiefly bronzite, and here again the ratio of the two metallic oxides, also about 1 to 4, is that of the bronzite of several meteorites, including among them the three mentioned above; and the Hessle meteorite is a fourth example, in both the olivine and bronzite of which the atomic ratio of iron oxide to magnesia is the same (1:4). The alumina has been regarded as a constituent of the bronzite, very few specimens of that mineral, whether terrestrial or meteoric, being quite free from this oxide; it could not be present as anorthite, since the chief amount is in the insoluble portion; nor could it be in the form of any other felspar, as the requisite alkali is not present.
 
-the ratio of the two metallic oxides, also about 1 to 4, is that of the 
-bronzite of several meteorites, including among them the three 
-mentioned above-; and the Hessle meteorite is a fourth example, in 
-both the olivine and bronzite of which the atomic ratio of iron oxide 
-to magnesia is the same (1:4). The alumina has been regarded as a 
-constituent of the bronzite, very few specimens of that mineral, 
-whether terrestrial or meteoric, being quite free from this oxide ; it 
-could not be present as anorthite, since the chief amount is in the 
-insoluble portion ; nor could it be in the form of any other felspar, 
-as the requisite alkali is not present. 
+The most remarkable feature of the Hessle shower is the association with the stones already described of other cosmical matter, chiefly composed of carbon. It was remarked by the peasants that some of the stones which fell on the ice near Arnö soon crumbled to a blackish-brown powder, which formed with the snow-water a mixture resembling coffee-grounds. Similar powder was found on the ice at Hafslaviken in masses as large as the hand, which floated like foam on water, and could not be held between the fingers. A small amount, secured for examination, was observed under the microscope to be composed of small spherical granules. It contained metallic particles extractible with the magnet, and, when ignited, burnt away, leaving a reddish-brown ash; heated in a tube, it gave a small amount of a brown liquid distillate. A specimen dried at 110° had the following composition:---
 
-The most remarkable feature of the Hessle shower is the associa- 
-tion with the stones already described of other cosmical matter, 
-chiefly composed of carbon. It was remarked by the peasants that 
-some of the stones which fell on the ice near Arno soon crumbled to 
-a blackish-brown powder, which formed with the snow-water a 
-mixture resembling coffee-grounds. Similar powder was found on 
-the ice at Hafslaviken in masses as large as the hand, which floated 
-like foam on water, and could not be held between the fingers. A 
-small amount, secured for examination, was observed under the 
-microscope to be composed of small spherical granules. It contained 
-metallic particles extractible with the magnet, and, when ignited, 
-burnt away, leaving a reddish-brown ash ; heated in a tube, it gave 
-a small amount of a brown liquid distillate. A specimen dried at 
-110° had the following composition :--- Equivalent Ratios. 
+| ~                          |      | Equivalent Ratios. |
+|----------------------------|------|--------------------|
+| Carbon                     | 51.6 | 4.3                |
+| Hydrogen                   | 3.8  | 3.8                |
+| Oxygen (calculated)        | 15.7 | 0.98               |
+| Silicic acid               | 16.7 |                    |
+| Iron protoxide             | 8.4  |                    |
+| Magnesia                   | 1.5  |                    |
+| Lime                       | 0.8  |                    |
+| Soda, with trace of lithia | 1.5  |                    |
+| ~                          | 100.0| ~                  |
 
-Carbon 61-6 4'3 
+The combustible constituent accompanying the stony matter in the above mixture appears to have the formula _n_ C₉H₈O₂. The Hessle stones form a new member of the small class of carbonaceous meteorites, that is to say, such as contain carbon in the amorphous state, or combined with hydrogen and oxygen, or in both these conditions; it includes at present those which fell at Kaba, Cold Bokkeveldt, Alais, Orgueil, Goalpara, and others.
 
-Hydrogen 3'8 3'8 
+It was noticed that the stones found in the same district with the carbonaceous state were, as a rule, quite round, and covered on all sides with a black, dull, and often sponge-like, crust. The iron particles on the surface of the smaller stones were usually quite bright and unoxidized, as would be the case if the stone had been heated in a reducing atmosphere. Nordenskjöld believes that the carbon compound frequently, perhaps always, occurs in association with meteorites, and he attributes its preservation at Hessle to the fact of the stones having fallen on snow-covered ground. --- The paper is illustrated by a map of the district, indicating the exact points where the larger masses descended.
 
-Oxygen (calculated) 15-7 0-98 
+### 1869, May 5th, 6:32 p. m. --- Krähenberg, near Zweibrücken, Rhenish Bavaria.*
 
-Silicic acid 16-7 
+A single stone was seen to fall, the sky being clear and bright. The noise of the explosion is described as having been louder than that of a cannon; this was followed by one resembling a roll of musketry, terminating with a sound as of the rushing of steam from a locomotive; the tone of the last sound increased in pitch, and abruptly ended with another loud noise. Although no luminous phenomena were observed at Krähenberg, a meteor was seen at Bingen, Speyer, Neuweiler, in Alsace, and in other parts, which observers agree in describing as emitting an intensely white light; one witness, who saw it in the zenith, states that the light was bluish. The inclination of the path of the meteor to the horizon is computed to have been 32°. From observations, made independently by two witnesses, it appears that this meteor came from the point in the heavens, 82° North Polar Distance and 190° Right Ascension. In the _Atlas of Meteors_ (British Association) there is given a radiant point (85° N. P. D. and 189° R. A.) for the epoch of 2nd April to 4th May, which is indicated as one of those that are "well-defined." It appears, then, to be highly probable that the Krähenberg meteorite, while traversing its cosmical path, belonged to the meteor shower, the radiant point of which lies near _δ Virginis_.
 
-Iron protoxide 8-4 
+Vom Rath states that the stone fell from a small cloud. A little girl was within a few paces of the spot where it struck the earth, on the slope of a hill facing the S. E.; it entered the ground to a depth of from three to four feet, making a perfectly vertical hole. It was soon dug out, and when brought to the village was warm, but not hot.
 
-Magnesia 1'5 
+The stone is of the form of a flattened spheroid, and weighed, when entire, about 33 lbs. The crust is about 0.5 mm. thick, and though in most parts black, some portions possess the peculiarly reddish-brown colour noticed on the Pultusk stones. The specific gravity of the stone, free from crust, is 3.497; that of the crust is 3.449; as in the Pultusk meteorite, the crust is lighter than the body of the stone. A remarkable feature of the surface are the numerous furrow-like depressions, some 8 mm. deep, which often anastomose and radiate from the more even crown of the stone towards its periphery; they are confined to the more rounded side of the stone. A newly broken surface is light grey, and exhibits a net-work of fine black lines and veins of nickeliferous iron; in one place a little gangue of metal measured 3 inches in length and 0.3 to 0.5 mm. wide. This meteorite bears a great resemblance, both as regards the crust and internal structure, to those above alluded to, which fell at Pultusk, in Poland, on 30th January, 1868. Spherules are abundant; and other minerals readily distinguishable are: olivine, magnetic pyrites, and chromite; the whole being inclosed in a "sphaerolithic" ground-mass of white and grey grains.
 
-Lime 0-8 
+*) O. Buchner. _Pogg. Ann._, 137., 176. --- G. vom Rath. _Pogg. Ann._, 137., 328. --- C. E. Weiss. _Pogg. Ann._, 137., 617. --- G. Neumayer. _Sitzber. Wien. Akad._, 60., 229. --- P. Reinsch. Lithographic "_Suite Mikroscopischer Praeparate_" of this Meteorite, issued March, 1872; and _Tageblatt_ 45, _Versammlung der Naturforscher in Leipzig_, 1872, 132.
 
-Soda, with trace of lithia T5 
+Nickel-iron, containing 15.3 per cent, of nickel, constitutes 3.5 per cent. of the stone, a less quantity than is found in the Pultusk meteorites; magnetic pyrites amounting to 5.52 per cent., a larger proportion than is met with in the Pultusk stones, occurs in grains, some 1 to 2 mm. wide. The dark-coloured spherules, the presence of which is a characteristic of chondritic meteorites, are more distinct and numerous than those of the Pultusk stone: some are 2 mm. wide, and are easily removed from the ground-mass. Yellowish-white grains, some 1 mm. wide, are abundant, and here and there are found grains of chromite, bearing octahedral faces.
 
-100-0 
+Viewed in the microscope, the mass of the stone is made up of numberless small white crystalline granules, which give colour in polarized light; they are stated by Vom Rath to be unacted upon by acid, and to consist essentially of a magnesium silicate, richer in silica than olivine. Among other curious constituents detected by the microscope are: a very small purple-red crystal bearing faces; a number of bright-yellow granules in distinct crystals; some light-yellow long prism-like forms; and a few large granules 0.5 mm. across, of a translucent red mineral, exhibiting conchoidal fracture. So small a portion of the stone could be devoted to chemical examination that none of these substances, nor even the large spherules, could be separately analyzed. The analysis of the stone furnished, after the nickel-iron and magnetic pyrites have been deducted, the per-centage numbers of acid and bases, the oxygen ratios of which are 1:1.448, the ratio in the Pultusk stone being 1:1.507. The analogy in composition, in respect of each constituent, of two bodies from so widely separated regions of planetary space is very striking. Vom Rath expresses his belief that "the siliceous portion of this meteorite, and indeed of the Pultusk stone, is mainly composed of olivine and another, a magnesium, silicate richer in silicic acid; but whether it be enstatite or shepardite (2MgO, 3SiO₂), or whether both silicates accompany the olivine, cannot, unfortunately, be determined."
 
-The combustible constituent accompanying the stony matter in 
-the above mixture appears to have the formula nC9H802. The 
-Hessle stones form a new member of the small class of carbo- 
-naceous meteorites, that is to say, such as contain carbon in the 
-amorphous state, or combined with hydrogen and oxygen, or in both 
-these conditions ; it includes at present those which fell at Kaba, 
-Cold JBokkeveldt, Alais, Orgueil, Goalpara, and others. 
+Apart, however, from the doubts that are now entertained respecting the existence of the magnesium sesquisilicate of Rose as a mineral species, the analytical determinations of Vom Rath will not be found, on examination, to support the theory in question. In addition to the composition of the entire stone, which is to be found below (1.), he gives in his paper the amounts of each of the bases dissolved in acid during a sulphur determination (see 2.).
 
-It was noticed that the stones found in the same district with the 
-carbonaceous state were, as a rule, quite round, and covered on all 
-sides with a black, dull, and often sponge-like, crust. The iron 
-particles on the surface of the smaller stones were usually quite 
-bright and unoxidized, as would be the case if the stone had been 
-heated in a reducing atmosphere. Nordenskjold believes that the 
-carbon compound frequently, perhaps always, occurs in association 
-with meteorites, and he attributes its preservation at Hessle to the 
-fact of the stones having fallen on snow-covered ground. --- The paper 
-is illustrated by a map of the district, indicating the exact points 
-where the larger masses descended. 
+| ~              | 1. Total Silicates. | 2. Bases dissolved Oxygen. | 3. Bases undissolved Oxygen. |
+|----------------|---------------------|----------------------------|------------------------------|
+| Silicic acid   | 46.37               |                            |                              |
+| Magnesia       | 27.13               | 11.7 4.68                  | 15.43 6.17                   |
+| Lime           | 2.15                | 0.56 0.16                  | 1.59 0.45                    |
+| Iron protoxide | 22.56               | 21.2 4.71                  | 1.36 0.30                    |
+| Alumina        | 0.67                | 0.14                       | 0.53                         |
+| Loss (Soda?)   | 1.12                |                            |                              |
+| ~              | 100.00              |                            | ~                            |
 
+Assuming the bases dissolved to be those of an olivine, they would require 17.90 per cent. of silicic acid to form 51.36 per cent. of an olivine of the form FeO, MgO, SiO₂ (like that occurring in the meteorites of Chateau-Renard and Kakova), while the undissolved bases with 25.95 per cent. of silicic acid form 45.45 per cent. of a nearly pure magnesian enstatite. There now remain only 2.52 per cent. of silica, which, with the alumina, and what may possibly be potash, give oxygen ratios, pointing, with more accuracy than might be expected in so small a residue, to about 4 per cent. of what may be a felspar. This method of regarding the constitution of the meteorites of Krähenberg and Pultusk has the advantage of assuming the existence in these stones of such meteoric minerals only as have been isolated and clearly identified. --- In an elaborate paper on the lithology of this meteorite, Weiss states that he detected the presence of three silicates, and by a careful study of a fresh surface of the stone, he finds that the grey silicate, which is probably enstatite, occurs in three distinct forms. This is a point of considerable interest, not only as tending to confirm the above calculations, but from the fact that three varieties of a nearly pure magnesian enstatite likewise occur in the Busti aerolite.
 
-1869, May 5th, 6.32 p.m. --- Krahenberg, near Zweibriicken, Rhenish 
+Reinsch has prepared eighteen microscopic slides of this meteorite, and made very effective pen-and-ink sketches of the more important of them. One shows a remarkable eroded spherule of iron; the evenly serrated surface is inclosed in a metallic shell, or rather net, so regular are the intervals at which this covering is broken through. Another exhibits spherules traversed by little dykes or veins of a mineral, which in one case is of a purple colour. Others show a beautiful blue mineral, which he suggests may be haüyne. He directs attention to the presence of magnetic pyrites and nickel-iron in the crust of the meteorite, and contends that, as these minerals would undergo change if exposed in air to a temperature at which the silicates forming the crust fuse, the meteorite must have been covered with a crust before it entered our atmosphere, and he ascribes the fusion to electrical agency, as seen in the perforated rocks (fulgurites ?) of the Lesser Ararat, described by Abich.
 
-Bavaria.1 
+### 1869, May 20th, 11:20 p. m. --- Moriches, Long Island, Suffolk Co., New York.*
 
-A single stone was seen to fall, the sky being clear and bright. The 
-noise of the explosion is described as having been louder than that 
-of a cannon ; this was followed by one resembling a roll of musketry, 
-terminating with a sound as of the rushing of steam from a loco- 
-motive ; the tone of the last sound increased in pitch, and abruptly 
-ended with another loud noise. Although no luminous phenomena 
-were observed at Krahenberg, a meteor was seen at Bingen, Speyer, 
-Neuweiler, in Alsace, and in other parts, which observers agree in 
-describing as emitting an intensely white light ; one witness, who 
-saw it in the zenith, states that the light was bluish. The inclination 
-of the path of the meteor to the horizon is computed to have been 
-32°. From observations, made independently by two witnesses, it 
-appears that this meteor came from the point in the heavens, 82° 
-North Polar Distance and 190° Eight Ascension. In the Atlas of 
-Meteors (British Association) there is given a radiant point (85° 
-N.P.D. and 189° R.A.) for the epoch of 2nd April to 4th May, 
-which is indicated as one of those that are " well-defined." It 
-appears, then, to be highly probable that the Krahenberg meteorite, 
-while traversing its cosmical path, belonged to the meteor shower, 
-the radiant point of which lies near S Virginis. 
+An unusually brilliant meteor was seen at New Haven, New York, Philadelphia, Hartford, and many other places. It appears to have moved, nearly horizontally, at an elevation of fifty miles, along a visible path of about 200 miles, and to have exploded over the Atlantic somewhat N. and E. of Boston. The time of flight is estimated at five seconds, which indicates a velocity of forty miles per second. Three minutes after the passage of the meteor, "a terrific sound" was heard at Moriches, which shook the house of the observer to the very foundation. The angular diameter of the meteoric body is estimated to have been 30′, the distance from Moriches at the time of the explosion, thirty-nine or forty miles, the altitude twenty-eight miles, and the actual diameter 1843 feet. It recalls to mind the celebrated meteor of 1783, August 18th, 9:30 p. m., which traversed Europe from N. W. to S. E.*
 
-Vom Eath states that the stone fell from a small cloud. A little 
-girl was within a few paces of the spot where it struck the earth, on 
-the slope of a hill facing the S.E. ; it entered the ground to a depth of 
-from three to four feet, making a perfectly vertical hole. It was 
-soon dug out, and when brought to the village was warm, but not hot. 
+*) E. Loomis. _Amer. Jour. Sc._, 1869, 48. 145.
 
-The stone is of the form of a flattened spheroid, and weighed, 
-when entire, about 331bs. The crust is about 0-5 mm. thick, and 
-though in most parts black, some portions possess the peculiarly 
-reddish-brown colour noticed on the Pultusk stones. The specific 
-gravity of the stone, free from crust, is 3*497; that of the crust is 
-3-449 ; as in the Pultusk meteorite, the crust is lighter than the 
-body of the stone. A remarkable feature of the surface are the 
-numerous furrow-like depressions, some 8 mm. deep, which often 
-anastomose and radiate from the more even crown of the stone 
-towards its periphery ; they are confined to the more rounded 
-side of the stone. A newly broken surface is light grey, and ex- 
-hibits a net-work of fine black lines and veins of nickeliferous 
-iron; in one place a little gangue of metal measured 3 inches in 
-length and 0-3 to 0-5 mm. wide. This meteorite bears a great 
-resemblance, both as regards the crust and internal structure, to 
-those above alluded to, which fell at Pultusk, in Poland, on 30th 
-January, 1868. Spherules are abundant ; and other minerals 
+*) May 20th-22nd, appears at the present time to be a period during which meteoric falls may be looked for. During the last six years the following five falls have occurred: 1868, May 22nd, Slavetic, Croatia. 1869, May 20th, Moriches, New York. 1869, May 22nd, Cléguérec, France. 1871, May 21st, Searsmont, Maine. 1874, May 20th, Virba, Turkey.
 
-1 0. Buchner. Pogg. Ann., cxxxvii , 176. --- G. vora Rath. Pogg. Ann., cxxxvii., 
-328.--- C. E. Weiss. Pogg. Ann., cxxxvii., 617.--- G. Neumayer. Sitzber. Wien. 
-Akad., lx., 229. --- P. Reinsch. Lithographic " Suite Mikroscopischer Praeparate" 
-of this Meteorite, issued March, 1872 ; and Tageblati 45, Versammlung der Natur- 
-fortcher in Leipzig, 1872, 132. 
+### 1869, May 22nd, 10:5 p. m. Paris time (9:45 p. m. Vannes time). --- Kernouve, 2 kilometres from Cléguérec, Arrondissement de 
+Napoléonville, Morbihan, France.*
 
-readily distinguishable are : olivine, magnetic pyrites, and chromite ; 
-the whole being inclosed in a " sphaerolithic " ground-mass of white 
-and grey grains. 
+A meteor was seen moving in the direction from S. to N. It very soon burst, throwing off a number of greenish-white sparks, which almost immediately lost their brilliancy, and in two and a half or three minutes an explosion was heard. At Vannes, the very intense bluish-white light, which lasted for some seconds, resembled that of burning magnesium. The stone penetrated the soil of a meadow to the depth of one metre, and was quite covered by the loose earth thrown up by the shock; when exhumed it was broken up by the peasants. A young girl, distant only a few metres, was the sole witness of the fall; the leaves and ends of the branches of some trees close at hand bore marks of having been scorched. The stone, when perfect, probably weighed about 80 kilogrammes, and was of a conical form; the crust is of two kinds: an outer black enamel rugose and blistered, and an inner simple coat of glaze; in some places grains of iron projected through both crusts. The interior is a dark grey colour, and is very compact and granular. The iron is disseminated in very brilliant grains; here in veins some centimetres long, there in masses several millimetres in diameter. The magnetic pyrites (troilite ?) occur but rarely in veins, sometimes in masses 3 centim. long, and 2 millim. broad. Occasionally grains of an enstatite or felspar are seen. In texture this stone bears a great resemblance to the aerolites of Pultusk (1868, January 30th). The density of the meteorite is 3.747; it gelatinizes with acid, giving off hydrogen-sulphide. Pisani states that the iron sulphide is not attracted by the magnet; he has, however, given it in the form of magnetic pyrites in the following total composition of the stone:
 
-Nickel-iron, containing 15*3 per cent, of nickel, constitutes 3'5 
-per cent, of the stone, a less quantity than is found in the Pultusk 
-meteorites; magnetic pyrites amounting to 5-52 per cent., a larger 
-proportion than is met with in the Pultusk stones, occurs in grains, 
-some 1 to 2 mm. wide. The dark-coloured spherules, the presence 
-of which is a characteristic of chondritic meteorites, are more distinct 
-and numerous than those of the Pultusk stone : some are 2 mm. 
-wide, and are easily removed from the ground-mass. Yellowish- 
-white grains, some 1 mm. wide, are abundant, and here and there 
-are found grains of chromite, bearing octahedral faces. 
+|                      |        |
+|----------------------|--------|
+| Nickel-iron          | 20.5   |
+| Magnetic pyrites (?) | 5.45   |
+| Dissolved silicate   | 34.6   |
+| Undissolved silicate | 40.22  |
+| ~                    | 100.77 |
 
-Viewed in the microscope, the mass of the stone is made up of 
-numberless small white crystalline granules, which give colour in 
-polarized light ; they are stated by Yom Eath to be unacted upon by 
-acid, and to consist essentially of a magnesium silicate, richer in 
-silica than olivine. Among other curious constituents detected by 
-the microscope are : a very small purple-red crystal bearing faces ; 
-a number of bright-yellow granules in distinct crystals ; some light- 
-yellow long prism-like forms ; and a few large granules 0'5 mm. 
-across, of a translucent red mineral, exhibiting conchoidal fracture. 
-So small a portion of the stone could be devoted to chemical exami- 
-nation that none of these substances, nor even the large spherules, 
-could be separately analyzed. The analysis of the stone furnished, 
-after the nickel-iron and magnetic pyrites have been deducted, the 
-per-centage numbers of acid and bases, the oxygen ratios of which are 
-1 : 1*4:4:8, the ratio in the Pultusk stone being 1 : 1*507. The analogy 
-in composition, in respect of each constituent, of two bodies from so 
-widely separated regions of planetary space is very striking. Yom 
-Eath expresses his belief that " the siliceous portion of this meteorite, 
-arid indeed of the Pultusk stone, is mainly composed of olivine and 
-another, a magnesium, silicate richer in silicic acid ; but whether it 
-be enstatite or shepardite (2MgO,3Si02), or whether both silicates 
-accompany the olivine, cannot, unfortunately, be determined." 
+*) De Limur. _Compt. rend._, 68. 1338. --- F. Pisani. _Compt. rend._, 68. 1489.
 
-Apart, however, from the doubts that are now entertained respect- 
-ing the existence of the magnesium sesquisilicate of Eose as a 
-mineral species, the analytical determinations of Vom Eath will 
-not be found, on examination, to support the theory in question. In 
-addition to the composition of the entire stone, which is to be found 
-below (I.), he gives in his paper the amounts of each of the bases 
-dissolved in acid during a sulphur determination (see II.). 
-
-I. Total Silicates. II. Bases dissolved III. Bases undissolved 
-
-Oxygen. Oxygen. 
-
-Silicic acid ... 46 '37 
-
-Magnesia ... 27'13 ... 11-7 4-68) ... 15-43 6-17) 
-
-Lime 2-15 ... 0-56 0-16 [ 9-55 ... 1'59 0-45 I 6*92 
-
-Iron protoxide... 22-56 ... 21-2 471 ) ... 1'36 0-30 J 
-
-Alumina 0-67 ... 0-14 ... 0'53 
-
-Loss (Soda?)... 1-12 
-
-100-00 
-
-Assuming the bases dissolved to be those of an olivine, they would 
-require 17-90 per cent, of silicic acid to form 51*36 per cent, of an 
-olivine of the form FeO, MgO, Si02 (like that occurring in the me- 
-teorites of Chateau-Kenard and Kakova), while the undissolved 
-bases with 25-95 per cent, of silicic acid form 45-45 per cent, 
-of a nearly pure magnesian enstatite. There now remain only 
-2-52 per cent, of silica, which, with the alumina, and what may 
-possibly be potash, give oxygen ratios, pointing, with more accuracy 
-than might be expected in so small a residue, to about 4 per cent, 
-of what may be a felspar. This method of regarding the con- 
-stitution of the meteorites of Krahenberg and Pultusk has the 
-advantage of assuming the existence in these stones of such 
-meteoric minerals only as have been isolated and clearly identified. --- 
-In an elaborate paper on the lithology of this meteorite, Weiss states 
-that he detected the presence of three silicates, and by a careful study 
-of a fresh surface of the stone, he finds that the grey silicate, which 
-is probably enstatite, occurs in three distinct forms. This is a point 
-of considerable interest, not only as tending to confirm the above 
-calculations, but from the fact that three varieties of a nearly pure 
-magnesian enstatite likewise occur in the Busti aerolite. 
-
-Reinsch has prepared eighteen microscopic slides of this meteorite, 
-and made very effective pen-and-ink sketches of the more important 
-of them. One shows a remarkable eroded spherule of iron ; the 
-evenly serrated surface is inclosed in a metallic shell, or rather net, 
-so regular are the intervals at which this covering is broken through. 
-Another exhibits spherules traversed by little dykes or veins of a 
-mineral, which in one case is of a purple colour. Others show 
-a beautiful blue mineral, which he suggests may be haiiyne. He 
-directs attention to the presence of magnetic pyrites and nickel-iron 
-in the crust of the meteorite, and contends that, as these minerals 
-would undergo change if exposed in air to a temperature at which 
-the silicates forming the crust fuse, the meteorite must have been 
-covered with a crust before it entered our atmosphere, and he 
-ascribes the fusion to electrical agency, as seen in the perforated 
-rocks (fulgurites ?) of the Lesser Ararat, described by Abich. 
-
-
-1869, May 20th, 11.20 p.m.--- Moriches, Long Island, Suffolk Co., 
-
-New York.1 
-
-An unusually brilliant meteor was seen at New Haven, New 
-York, Philadelphia, Hartford, and many other places. It appears 
-to have moved, nearly horizontally, at an elevation of fifty miles, 
-along a visible path of about 200 miles, and to have exploded over 
-the Atlantic somewhat N. and E. of Boston. The time of flight is 
-estimated at five seconds, which indicates a velocity of forty miles 
-
-1 E. Loomis. Amer. Jour. Sc., 1869, xlviii. 145. 
-per second. Three minutes after the passage of the meteor, "a 
-terrific sound " was heard at Moriches, which shook the house of 
-the observer to the very foundation. The angular diameter of the 
-meteoric body is estimated to have been 30', the distance from 
-Moriches at the time of the explosion, thirty-nine or forty miles, 
-the altitude twenty-eight miles, and the actual diameter 1843 feet. 
-It recalls to mind the celebrated meteor of 1783, August 18th, 
-9-30 p.m., which traversed Europe from N.W. to S.E.1 
-
-
-1869, May 22nd, 10.5 p.m. Paris time (9.45 p.m. Vannes time).--- 
-Kernouve, 2 kilometres from Cleguerec, Arrondissement de 
-Napoleonville, Morbihan, France.2 
-
-A meteor was seen moving in the direction from S. to N. It very 
-soon burst, throwing off a number of greenish-white sparks, which 
-almost immediately lost their brilliancy, and in two and a half or 
-three minutes an explosion was heard. At Yannes, the very intense 
-bluish-white light, which lasted for some seconds, resembled that 
-of burning magnesium. The stone penetrated the soil of a meadow 
-to the depth of one metre, and was quite covered by the loose earth 
-thrown up by the shock ; when exhumed it was broken up by the 
-peasants. A young girl, distant only a few metres, was the sole 
-witness of the fall ; the leaves and ends of the branches of some 
-trees close at hand bore marks of having been scorched. The stone, 
-when perfect, probably weighed about 80 kilogrammes, and was of 
-a conical form ; the crust is of two kinds : an outer black enamel 
-rugose and blistered, and an inner simple coat of glaze ; in some 
-places grains of iron projected through both crusts. The interior is 
-a dark grey colour, and is very compact and granular. The iron is 
-disseminated in very brilliant grains; here in veins some centi- 
-metres long, there in masses several millimetres in diameter. The 
-magnetic pyrites (troilite ?) occur but rarely in veins, sometimes in 
-masses 3 centim. long, and 2 millim. broad. Occasionally grains of 
-an enstattte or felspar are seen. In texture this stone bears a great 
-resemblance to the aerolites of Pultusk (1868, January 30th). The 
-density of the meteorite is 3*747 ; it gelatinizes with acid, giving 
-off hydrogen-sulphide. Pisani states that the iron sulphide is not 
-
-1 May 20th-22nd, appears at the present time to be a period during which 
-meteoric falls may be looked for. During the last six years the following five falls 
-have occurred : ' 1868, May 22nd, Slavetic, Croatia. 
-
-1869, May 20th, Moriches, New York. 
-1869, May 22nd, Cleguerec, France. 
-1871, May 21st, Searsmont, Maine. 
-1874, May 20th, Virba, Turkey. 
-» De Limur. Compt. rend., liviii. 1338.--- F. Pisani. Compt. rend., kviii. 1489. 
-
-attracted by the magnet ; he has, however, given it in the form of 
-magnetic pyrites in the following total composition of the stone : 
-
-Nickel-iron 20-50 
-
-Magnetic pyrites (?) 5-45 
-
-Dissolved silicate 34-60 
-
-Undissolved silicate 40-22 
-
-100-77 
 The nickel-iron is composed of: 
 
-Iron = 92-44 Nickel = 7'56 = 100-00 
+Iron = 92.44  
+Nickel = 7.56  
+= 100.00
 
-and the silicates of : 
+and the silicates of:
 
 Si02 A1203 FeO MgO CaO Na^O 
-
 A. Soluble ... 29-04 2'98 22-31 42-95 1-36 1'36 = 100-00 
-
 B. Insoluble... 56-94 5'37 9-89 21'93 3-53 2-34=100-00 
-
 
 1869, September 19th, 9 p.m --- Tjabe, near Pandangan, Bodgo- 
 Negoro, in Residence Rembang, Java.1 
