@@ -74,227 +74,88 @@ On the Chemical Composition of a Coin of Bactria (copper-nickel alloy). --- _Num
 
 [With Prof. N. S. Maskelyne.] Mineralogical Notices: No. 1, On the Formation of Basic Cupric Sulphates. 2, Opal from Waddela Plain, Abyssinia. 3, Francolite from Cornwall. 4, Epidote and Serpentine from Iona. 5, Vivianite. 6, Cronstedtite. 7, Pholerite. --- _Journ. Chem. Soc._ vol. 9. 1871.
 
-[With Prof. N. S. Maskelyne.] Mineralogical Notices continued : No. 8, Isopyre. 
-9, Percylite. 10, Vanadinite. 11, Uranite. 12, Analyses of some pisolitic 
-iron ores from North Wales. 13, Prasine. --- Journ. Chem. Soc. vol. x. 1872. 
+[With Prof. N. S. Maskelyne.] Mineralogical Notices continued: No. 8, Isopyre. 9, Percylite. 10, Vanadinite. 11, Uranite. 12, Analyses of some pisolitic iron ores from North Wales. 13, Prasine. --- _Journ. Chem. Soc._ vol. 10. 1872.
 
-[With Prof. N. S. Maskelyne.] Ueber die Destillationsmethode zur Bestimmung 
-Kieselsaure. Eead before the Naturforscherversammlung, held at Wiesbaden, 
-September, 1873. 
+[With Prof. N. S. Maskelyne.] Über die Destillationsmethode zur Bestimmung Kieselsäure. Read before the _Naturforscherversammlung_, held at Wiesbaden, September, 1873.
 
-[With Prof. N. S. Maskelyne.] Ueber die Farbe der Diamanten. Read before the 
-Naturforscherversammlung, held at Wiesbaden, September, 1873. 
+[With Prof. N. S. Maskelyne.] Über die Farbe der Diamanten. Read before the _Naturforscherversammlung_, held at Wiesbaden, September, 1873.
 
-[With Prof. N. S. Maskelyne.] Mineralogical Notices, continued : No. 14, Caledo- 
-nite. 15, Lanarkite. --- Journ. Chem. Soc. vol. xii. 1874. 
+[With Prof. N. S. Maskelyne.] Mineralogical Notices, continued: No. 14, Caledonite. 15, Lanarkite. --- _Journ. Chem. Soc._ vol. 12. 1874.
 
-[With Prof. N. S. Maskelyne.] On the Character of the Diamantiferous Rock of 
-South Africa. --- Quart. Journ. Geol. Soc. vol. 30, 1874. 
+[With Prof. N. S. Maskelyne.] On the Character of the Diamantiferous Rock of South Africa. --- _Quart. Journ. Geol. Soc._ vol. 30, 1874.
 
-[With Prof. N. S. Maskelyne.] On Andrewsite and Chalkosiderite.--- Journ. Chem. 
-Soc. vol. xiii. 1875. 
+[With Prof. N. S. Maskelyne.] On Andrewsite and Chalkosiderite.--- _Journ. Chem. Soc._ vol. 13. 1875.
 
-An Examination of Methods for effecting the Quantitative Separation of Iron 
-Sesquioxide, Alumina and Phosphoric Acid. --- Journ. Chem. Soc. xiii. 1875. 
+An Examination of Methods for effecting the Quantitative Separation of Iron Sesquioxide, Alumina and Phosphoric Acid. --- _Journ. Chem. Soc._ 13. 1875.
 
-Examination of two new Amalgams, and a Specimen of Native Gold. --- Phil. Mag. 
-vol. ix. 1880. 
+Examination of two new Amalgams, and a Specimen of Native Gold. --- _Phil. Mag._ vol. 9. 1880.
 
-Contributions to our Knowledge of the Composition of Alloys and Metal-work, for 
-the most part Ancient. --- Journ. Chem. Soc. vol. xli. 1882. 
+Contributions to our Knowledge of the Composition of Alloys and Metal-work, for the most part Ancient. --- _Journ. Chem. Soc._ vol. 41. 1882.
 
-On the Action of Sodium Hydrate and Carbonate on Feldspars and Wollastonite. 
---- Journ. Chem. Soc. vol. xli. 1882. 
+On the Action of Sodium Hydrate and Carbonate on Feldspars and Wollastonite. --- _Journ. Chem. Soc._ vol. 41. 1882.
 
-Report of an Examination of the Meteorites of Cranbourne, in Australia ; of Rowton 
-in Shropshire ; and of Middlesborough, in Yorkshire. --- Proceed. Roy. Soc. Lon. 
-vol. 33, 1882 ; Phil. Trans. Roy. Soc. vol. 3, 1883. 
+Report of an Examination of the Meteorites of Cranbourne, in Australia; of Rowton in Shropshire; and of Middlesborough, in Yorkshire. --- _Proceed. Roy. Soc. Lon._ vol. 33, 1882; _Phil. Trans. Roy. Soc._ vol. 3, 1883.
 
-Two New Mineral Species, Evigtokite and Liskeardite. --- Journ. Chem. Soc. vol. 
+Two New Mineral Species, Evigtokite and Liskeardite. --- _Journ. Chem. Soc._ vol. 43. 1883.
 
-xliii. 1883. 
-Examination of the Meteorite which fell on the 16th February, 1883, at Alfianello, 
+Examination of the Meteorite which fell on the 16th February, 1883, at Alfianello, in the district of Verolannova, in the province of Brescia, Italy. --- _Proc. Roy. Soc._ vol. 35, 1883.
 
-in the district of Yerolannova, in the province of Brescia, Italy. --- Proc. Roy. 
+[With Mr. George Murray.] Examination of Mr. A. Stephen Wilson's "Sclerotia" of Phytophthora infestans. --- _Journ. of Botany_, 1883.
 
-Soc. vol. 35, 1883. 
+---
 
-[With Mr. George Murray.] Examination of Mr. A. Stephen Wilson's " Sclerotia" 
-of Phytophthora infestans. --- Journ. of Botany, 1883. 
+# History of Meteorites from 1869-1875.
 
-HISTOEY OF METEOKITES. 
+## Introduction.
 
-FROM 1869-1875. 
+In submitting the following digest of what has been published on the subject of Meteorites since the beginning of 1869, it should be stated, to explain the selection of this period in particular, that up to that year the then numerous and scattered contributions to this question had been collected and published in the form of a most careful digest by Professor Rammelsberg, in his _Die Chemische Natur der Meteoriten_, 1870; further that Buchner's series of papers in _Poggendorff's Annalen_ on _Die Meteoriten in Sammlungen_, had in many ways supplemented the work of Rammelsberg. But while, as to the period previous to 1869, we thus possess in a form most convenient for reference the substance of all the then known contributions to this subject, it appears that since that year there has been no continuation of this laborious work of collecting and examining scattered materials. And yet it cannot be said that such is unnecessary, for in this interval many important contributions have been made to this branch of mineralogical science; meteoric falls of great interest, as, for example, that at Hessle, in Sweden, have taken place; remarkable cosmical masses have been discovered, of which none are more curious than the colossal meteoric irons of Ovifak, in Greenland; and the presence of new meteoric minerals has been determined, such as the calcium sulphide of the Busti aerolite,* and the rhombic form of silicic acid in the Breitenbach siderolite. It has therefore become a matter of necessity that the work of Rammelsberg and Buchner should be continued, and this is the justification of the present attempt.
 
-INTRODUCTION. 
+*) A preliminary note of this mineral appeared in the _Brit. Assoc. Report_, 1862, "Notices and Abstracts," Appendix 2., 190.
 
-IN submitting the following digest of what has been published on 
-the subject of Meteorites since the beginning of 1869, it should be 
-stated, to explain the selection of this period in particular, that up 
-to that year the then numerous and scattered contributions to this 
-question had been collected and published in the form of a most 
-careful digest by Professor Rammelsberg, in his Die CJ^emische Natur 
-der Meteoriten, 1870 ; further that Buchner's series of papers in 
-Poggendorff's Annalen on Die Meteoriten in Sammlungen, had in 
-many ways supplemented the work of Rammelsberg. But while, as 
-to the period previous to 1869, we thus possess in a form most con- 
-venient for reference the substance of all the then known contribu- 
-tions to this subject, it appears that since that year there has been no 
-continuation of this laborious work of collecting and examining 
-scattered materials. And yet it cannot be said that such is unneces- 
-sary, for in this interval many important contributions have been 
-made to this branch of mineralogical science ; meteoric falls of great 
-interest, as, for example, that at Hessle, in Sweden, have taken place ; 
-remarkable cosmical masses have been discovered, of which none are 
-more curious than the colossal meteoric irons of Ovifak, in Green- 
-land ; and the presence of new meteoric minerals has been de- 
-termined, such as the calcium sulphide of the Busti aerolite,1 and 
-the rhombic form of silicic acid in the Breitenbach siderolite. It 
-has therefore become a matter of necessity that the work of Rammels- 
-berg and Buchner should be continued, and this is the justification 
-of the present attempt. 
+It is proposed to deal with the subject under the following four divisions:---
 
-It is proposed to deal with the subject under the following four 
-divisions : --- 
+1\. To present seriatim a description of all meteoric bodies that have been known to fall, or that may have been found, since the 1st January, 1869, with an account of all the important phenomena attending their descent, and a description of their physical and chemical characters, or those of their ingredient minerals as far as they have yet been determined. In the examination of the analyses, it will be shown that the hypothetical silicate shepardite, which at the present time is supposed by many mineralogists and geologists* to form a constituent of meteorites (although it has never been isolated), not only need not be assumed to be present, but that the analytical results of these observers indicate the presence in the aerolite of such silicates only as have on some occasion or other been observed to occur as distinct species in a meteorite.
 
-I. To present seriatim a description of all meteoric bodies that 
-have been known to fall, or that may have been found, since the 
-1st January, 1869, with an account of all the important phenomena 
-attending their descent, and a description of their physical and 
-chemical characters, or those of their ingredient minerals as 
-far as they have yet been determined. In the examination of 
-the analyses, it will be shown that the hypothetical silicate 
-shepardite, which at the present time is supposed by many miner- 
-alogists and geologists2 to form a constituent of meteorites (although 
+*) In his address "Über die Entwickelung der Geologie in den letzten 50 Jahren," delivered before the German Naturalists' Association at Leipzig in 1872, Von Dechen alluded to shepardite (anderthalbfach kieselsaure Magnesia) as a characteristic meteoric mineral.
 
-1 A preliminary note of this mineral appeared in the Brit. Assoe. Report, 1862, 
-" Notices and Abstracts," Appendix ii., 190. 
+2\. To produce a digest of work published from 1869-1875 on meteorites which had fallen, or had been found, at an earlier date, giving such results as correct earlier analyses.
 
-* In his address uUeber die Entwickelung der Geologic in den letzten 50 Jahren," 
-delivered before the German Naturalists' Association at Leipzig in 1872, Von Dechen 
-alluded to shepardite (anderthalbfach kieselsaure Magnesia) as a characteristic 
-meteoric mineral. 
+3\. To prepare an exhaustive notice of papers published from 1869-1875 on meteorites:
 
-it has never been isolated), not only need not be assumed to be present, 
-but that the analytical results of these observers indicate the presence 
-in the aerolite of such silicates only as have on some occasion or 
-other been observed to occur as distinct species in a meteorite. 
+1\. In their relations to astronomical questions; their probable 
+orbits; the phenomena attending their fall; their distribution 
+on the earth's surface; spectroscopic examination, etc.
 
-II. To produce a' digest of work published from 1869 --- 1875 on 
-meteorites which had fallen, or had been found, at an earlier date, 
-giving such results as correct earlier analyses. 
+2\. In respect to better methods of analysis; new catalogues of collections; and the bibliography of this branch of mineralogy.
 
-III. To prepare an exhaustive notice of papers published from 
-1869 --- 1875 on meteorites : 
+4\. To examine cases of doubtful falls, pseudo-aerolites, etc., which have been placed on record during the above interval.
 
-(1). In their relations to astronomical questions ; their probable 
-orbits ; the phenomena attending their fall ; their distribution 
-on the earth's surface ; spectroscopic examination, etc. 
-(2). In respect to better methods of analysis; new catalogues 
-of collections ; and the bibliography of this branch of miner- 
-alogy. 
+## Part 1.
 
-TV. To examine cases of doubtful falls, pseudo-aerolites, etc., 
-which have been placed on record during the above interval. 
+### 1869, January 1st, 12 h. 20 m. p. p. --- Hessle, near Upsala.*
 
+This is the first meteoric fall recorded to have taken place in Sweden. The sky was cloudy, and, though apparently unobserved at Hessle, a luminous meteor was noticed by observers at a distance. The noise accompanying the fall resembled heavy peals of thunder, followed by a rattling noise as of waggons at a gallop, and ending at first with a note like an organ tone, and then a hissing sound. The stones were strewn over a line of country lying 30° E. of S. towards 30° W. of N. Some of them fell within a few yards of a number of peasants who were coming out of church; one struck the ice close to a man who was fishing on the Mälar Lårsta-Viken, and after digging a hole three or four inches deep, rebounded; when picked up, it was still warm.
 
-PAKT I. 
-1869, January 1st, 12h. 20m. p.m. --- Hessle, near Upsala. l 
+*) O. Fahnehjelm. Meteorfallet i Fittja socken af Upsala län d. 1 Januari, 1869, _Öfversigt Vet. Akad. Förd._ 1869, No. 1, 59. --- A. E. Nordenskjöld. _Kongl. Svenska. Vetensk. Akad. Handl._ 8. No. 9; _Pogg. Ann._ 121., 205. --- G. Lindström. Kemisk Undersokning af Meteorstenarne från Hessle. _Kongl. Svenska Vetensk. Akad. Förd._, 1869, No. 8. --- K. A. Fredholm. Om Meteorstensfallet vid Hessle. Leipzig: Fritsch. --- G. A. Daubrée. _Compt. rend._, 68., 363.
 
-This is the first meteoric fall recorded to have taken place in 
-Sweden. The sky was cloudy, and, though apparently unobserved 
-at Hessle, a luminous meteor was noticed by observers at a distance. 
-The noise accompanying the fall resembled heavy peals of thunder, 
-followed by a rattling noise as of waggons at a gallop, and ending at 
-first with a note like an organ tone, and then a hissing sound. The 
-stones were strewn over a line of country lying 30° E. of S. towards 
-30° W. of N. Some of them fell within a few yards of a number of 
-peasants who were coming out of church ; one struck the ice close 
-to a man who was fishing on the Malar Larsta-Viken, and after 
-digging a hole three or four inches deep, rebounded ; when picked 
-up, it was still warm. 
+The stones differ greatly in weight, from 2 lbs. to 0.17 gramme (about 2 1/2 grains). The smallest have the same structure and thickness of crust as the largest, and are in fact small complete meteorites. Such diminutive stones have not hitherto been noticed, and should be sought for at future aerolitic falls.
 
-The stones differ greatly in weight, from 21bs. to 0*17 gramme 
-(about 2J grains). The smallest have the same structure and thick- 
-ness of crust as the largest, and are in fact small complete meteorites. 
-Such diminutive stones have not hitherto been noticed, and should 
-be sought for at future aerolitic falls. 
+The exterior of the stones is black; the interior bright grey, and sufficiently porous to cling to the tongue. Though the structure of these meteorites is so loose that they break in pieces when thrown with the hand against the floor or frozen ground, it is a remarkable fact that nearly all the specimens which have been collected fell intact, and some of the heavier stones which struck the ice of the Lårsta-Viken failed to penetrate it, although the thickness was only a few inches on New Year's Day. This explains in some degree the statements of eye-witnesses as to their remarkably small downward velocity.
 
-The exterior of the stones is black ; the interior bright grey, and 
-sufficiently porous to cling to the tongue. Though the structure of 
+In appearance they resemble very closely the meteorites of Aussun and Clarac, Haute Garonne (1858, December 9th). They have been examined by Nordenskjöld, who so arranges the results of his analyses that he finds them to be composed of: 20 per cent. nickel-iron (chamoisite, Fe₈Ni), with some schreibersite and rather less than one per cent. of chromite; a variable amount of troilite (iron monosulphide); a trace of carbon, probably in the form of a hydrocarbon; 10 per cent. of labradorite; 37 per cent. of olivine; and 23 per cent. of 'shepardite.'
 
-1 0. Fahnekjelm. Meteorfallet i Fittja socken af Upsala Ian d. 1 Januari, 1869, 
-Oefversigt Vet.. Akad. Ford. 1869, No. 1, 59. --- A. E. Nordenskjold. Kongl. Svenska. 
-Vetensk. Akad. Handl. viii. No. 9 ; Pogg. Ann. cxxi., 205. --- G. Lindstrom. 
-Kemisk Undersokning af Meteorstenarne fran flessle. Kongl. Svenska Vetensk. 
-Akad. Fbrd., 1869, No. 8.--- K. A. Fredholm. Om Meteorstensfallet vid Hessle. 
-Leipzig: Fritsch. --- G. A. Daubree. Compt. rend., kviii., 363. 
+Two great difficulties, however, are presented by this explanation of the constitution of the Hessle meteorites. It is not only assumed that a basic silicate, like olivine, and a sesquisilicate, or acid silicate, like 'shepardite,' exist in intimate association in the same rock-mass, but it necessitates the retention as a mineral species of this very 'shepardite' which the researches of Dr. L. Smith on the Bishopville stone have shown to be no other than a pure magnesian enstatite (MgO, SiO₂).
 
-these meteorites is so loose that they break in pieces when thrown 
-with the hand against the floor or frozen ground, it is a remarkable 
-fact that nearly all the specimens which have been collected fell 
-intact, and some of the heavier stones which struck the ice of the 
-Larsta-Viken failed to penetrate it, although the thickness was only 
-a few inches on New Year's Day. This explains in some degree the 
-statements of eye-witnesses as to their remarkably small downward 
-velocity. 
+In the following table are given: under 1. the oxygen ratios of the mean of the total constituents from three analyses, after the nickel-iron had been removed by mercury chloride in one case, and by the magnet in another; under 2. the oxygen ratios of acid and bases of silicate broken up by acid; and under 3. the difference between 1. and 2., or the oxygen ratios of acid and bases of silicate unaffected by acid.
 
-In appearance they resemble very closely the meteorites of Aussun 
-and Clarac, Haute Garonne (1858, December 9th). They have been 
-examined by Nordenskjold, who so arranges the results of his 
-analyses that he finds them to be composed of : 20 per cent, nickel- 
-iron (chamoisite, Fe8Ni), with some schreibersite and rather less than 
-one per cent, of chromite ; a variable amount of troilite (iron mono- 
-sulphide) ; a trace of carbon, probably in the form of a hydrocarbon ; 
-10 per cent, of labradorite ; 37 per cent, of olivine; and 23 per cent, 
-of ' shepardite.' 
-
-Two great difficulties, however, are presented by this explanation 
-of the constitution of the Hessle meteorites. It is not only assumed 
-that a basic silicate, like olivine, and a sesquisilicate, or acid 
-silicate, like ' shepardite,' exist in intimate association in the same 
-rock-mass, but it necessitates the retention as a mineral species of 
-this very ' shepardite ' which the researches of Dr. L. Smith on the 
-Bishopville stone have shown to be no other than a pure magnesian 
-enstatite (MgO,Si08). 
-
-In the following table are given : under I. the oxygen ratios of 
-the mean of the total constituents from three analyses, after the nickel- 
-iron had been removed by mercury chloride in one case, and by the 
-magnet in another; under II. the oxygen ratios of acid and bases 
-of silicate broken up by acid ; and under III. the difference between 
-I. and II., or the oxygen ratios of acid and bases of silicate un- 
-affected by acid. 
-
-I. Total. II. Soluble. III. Insoluble. 
-
-Silicic acid , , 26-45 , 10-78 15-67 
-
-Iron protoxide 
-Magnesia 
-Lime 
-Alumina 
-Soda 
-
-2-971 
-11-82 
-0-748 
-1431 
-0-358 
-
-. 1-858 } 
-. 7-559 
-. 0-219 
-. 0-03 
-. 0-31 , 
-
-1-113 } 
-4-261 
-^ 9-976 ... 0-529 
-1-401 
-0-048 J 
-
-7-352 
+| ~              | 1. Total. | 2. Soluble. | 3. Insoluble.   |
+|----------------|-----------|-------------|-----------------|
+| Silicic acid   | 26.45     | 10.78       | 15.67           |
+| Iron protoxide | 2.971     | 1.858       | 1.113           |
+| Magnesia       | 11.82     | 7.559       | 4.261           |
+| Lime           | 0.748     | 0.219       | 0.529           |
+| Alumina        | 1.431     | 0.03        | 1.401           |
+| Soda           | 0.358     | 0.31        | 0.048           |
 
 In the soluble part the oxygen ratios do not widely differ from 
 those of an olivine, while the atomic ratio of iron oxide to magnesia, 
