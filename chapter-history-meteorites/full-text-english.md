@@ -236,93 +236,39 @@ Nickel = 7.56
 
 and the silicates of:
 
-Si02 A1203 FeO MgO CaO Na^O 
-A. Soluble ... 29-04 2'98 22-31 42-95 1-36 1'36 = 100-00 
-B. Insoluble... 56-94 5'37 9-89 21'93 3-53 2-34=100-00 
+| ~               | SiO₂  | Al₂O₃ | FeO   | MgO   | CaO  | Na₂O  | ~        |
+|-----------------|-------|-------|-------|-------|------|-------|----------|
+| A\. _Soluble_   | 29.04 | 2.98  | 22.31 | 42.95 | 1.36 | 1.36  | =100.00  |
+| B\. _Insoluble_ | 56.94 | 5.37  | 9.89  | 21.93 | 3.53 | 2.34  | =100.00  |
 
-1869, September 19th, 9 p.m --- Tjabe, near Pandangan, Bodgo- 
-Negoro, in Residence Rembang, Java.1 
+### 1869, September 19th, 9 p. m. --- Tjabé, near Pandangan, Bodgo-Négoro, in Residence Rembang, Java.*
 
-A meteor, the brilliancy of which is stated to have surpassed that 
-of the moon, was seen about nine in the evening to move in a north- 
-easterly direction over the village of Tjabe. It was observed at 
-Pandangan, the chief place of the district, as well as at Bodgo-Negoro, 
-chief town of the division, lying east of Pandangan. At the same 
-time a meteorite fell at Tjabe, at a distance of about twenty metres 
-from the house of a native named Sokromo. The sound following 
-the appearance of the meteor is described as an explosion, as loud as 
-that of a cannon, followed by a noise resembling that caused by a 
-carriage crossing a bridge ; this lasted some time. The villagers 
-sought in vain for the spot where the meteorite fell ; at six o'clock 
-next morning, however, it was found at the place already mentioned, 
-at a depth of two feet in soil which had been hardened with a long 
-drought. According to the report drawn up by the President of 
-Rembang, it was remarked by the villagers that the aerolite, when 
-found, was still so hot that it could not be touched with the hand. 
-This statement, however, must be received with caution. 
+A meteor, the brilliancy of which is stated to have surpassed that of the moon, was seen about nine in the evening to move in a north-easterly direction over the village of Tjabé. It was observed at Pandangan, the chief place of the district, as well as at Bodgo-Négoro, chief town of the division, lying east of Pandangan. At the same time a meteorite fell at Tjabé, at a distance of about twenty metres from the house of a native named Sokromo. The sound following the appearance of the meteor is described as an explosion, as loud as that of a cannon, followed by a noise resembling that caused by a carriage crossing a bridge; this lasted some time. The villagers sought in vain for the spot where the meteorite fell; at six o'clock next morning, however, it was found at the place already mentioned, at a depth of two feet in soil which had been hardened with a long drought. According to the report drawn up by the President of Rembang, it was remarked by the villagers that the aerolite, when found, was still so hot that it could not be touched with the hand. This statement, however, must be received with caution.
 
-This stone, the only one found, weighed about 20 kilogrammes. It 
-is covered with a dull greyish black crust, 0-5 mm. in thickness ; 
-the fresh fracture is dark grey, and exhibits a number of brilliant 
-points : here and there brilliant plates 1 mm. square are met with, 
-as well as a small number of very dark, almost black, grains of 
-spherical form, with a diameter of about 2 mm. The mass of the 
-stone is coarsely granular, and is so very hard that portions are only 
-detached with a hammer with great difficulty. 
+This stone, the only one found, weighed about 20 kilogrammes. It is covered with a dull greyish black crust, 0.5 mm. in thickness; the fresh fracture is dark grey, and exhibits a number of brilliant points: here and there brilliant plates 1 mm. square are met with, as well as a small number of very dark, almost black, grains of spherical form, with a diameter of about 2 mm. The mass of the stone is coarsely granular, and is so very hard that portions are only detached with a hammer with great difficulty.
 
-The specific gravity of the metallic portion is 6-8 ; the magnet 
-removed 14 per cent, constituents, which consist of two alloys of 
-nickel-iron, containing respectively 6-2 and 12-5 per cent, of nickel ; 
-in one portion of the stone was found 6*17 per cent, of troilite. The 
-density of the stone is 3 '695. 
+The specific gravity of the metallic portion is 6.8; the magnet removed 14 per cent. constituents, which consist of two alloys of nickel-iron, containing respectively 6.2 and 12.5 per cent. of nickel; in one portion of the stone was found 6.17 per cent. of troilite. The density of the stone is 3.695.
 
-1 E. H. von Baumhauer. Archives Ne'erlandaises, ?i. No. 4 (1871). --- Gr. A. 
-Daubree. Compt. rend., 1871, 16th December. 
+*) E. H. von Baumhauer. _Archives Néerlandaises_, 6. No. 4 (1871). --- G. A. Daubrée. _Compt. rend._, 1871, 16th December.
 
-The analyses of the rocky portion yielded the following results : --- 
-Si02. A1303. FeO. MnO. MgO. CaO. Na30. K20. Chromite. 
+The analyses of the rocky portion yielded the following results:---
 
-A. Soluble ... 34-72 0'70 26-14 0-65 35'70 1-61 0'48 Trace --- =100 '00 
-B. Insoluble... 60'83 4'74 12-92 0'60 14-14 3-30 1'53 0'82 1-12 = 100-00 
+| ~               | SiO₂. | Al₂O₃. | FeO.  | MnO. | MgO.  | CaO. | Na₂O. | K₂O.  | Chromite.  | ~        |
+|-----------------|-------|--------|-------|------|-------|------|-------|-------|------------|----------|
+| A\. _Soluble_   | 34.72 | 0.70   | 26.14 | 0.65 | 35.70 | 1.61 | 0.48  | Trace | ---        | =100.00  |
+| B\. _Insoluble_ | 60.83 | 4.74   | 12.92 | 0.60 | 14.14 | 3.30 | 1.53  | 0.82  | 1.12       | =100.00  |
 
-The soluble siliceous portion, forming 45-94: per cent, of the non- 
-metallic part of the aerolite, consists of an olivine in which the 
-oxygen ratios of FeO and MgO are as 2 : 5. As in most analyses 
-of meteorites, where the separation of the silicate of the form 
-2RO,Si02 is attempted to be effected by means of acid, the silica in A, 
-the soluble portion, is insufficient to form an olivine. The silica of 
+The soluble siliceous portion, forming 45.94 per cent. of the non-metallic part of the aerolite, consists of an olivine in which the oxygen ratios of FeO and MgO are as 2:5. As in most analyses of meteorites, where the separation of the silicate of the form 2RO,SiO₂ is attempted to be effected by means of acid, the silica in A, the soluble portion, is insufficient to form an olivine. The silica of B, the insoluble portion, on the other hand, is not only present in ample quantity, to make good what is wanting in A, and to supply the silicates of the form RO,SiO₂, but is in sufficient excess to lead Baumhauer to assume the presence of a bisilicate in the insoluble portion. If, however, the requisite amounts of silica be apportioned to the protoxides of iron, manganese, magnesium, and calcium of A and B, to form the respective silicates, there remain in the insoluble portion the following constituents, the oxygen ratios of which, as will be seen below, do not differ widely from those of an albite or orthoclase:
 
-B, the insoluble portion, on the other hand, is not only present in 
-ample quantity, to make good what is wanting in A, and to supply 
-the silicates of the form EO,Si02, but is in sufficient excess to lead 
-Baumhauer to assume the presence of a bisilicate in the insoluble 
-portion. If, however, the requisite amounts of silica be apportioned 
-to the protoxides of iron, manganese, magnesium, and calcium of A 
-and B, to form the respective silicates, there remain in the insoluble 
-portion the following constituents, the oxygen ratios of which, as 
-will be seen below, do not differ widely from those of an albite or 
-orthoclase : 
+SiO₂ = 5.326; Al₂O = 1.13; K₂O = 0.16; Na₂O = 0.39.
 
-Si02 = 5-326; A120=M3; K20=0-16; Na30=0*39. 
-Baumhauer traces a resemblance, in point of composition, between 
-the aerolites of Tjabe and Mezo-Madaraz (1852, September 4th), by 
-comparing his results with those published by Atkinson,1 who 
-analysed the latter stone in Wohler's laboratory. About the time of 
-the publication of this paper of Baumhauer' s (1871), Rammelsberg2 
-announced the result (see infra) of his examination of the Mezo- 
-Madaraz stone, which differs very considerably from those arrived 
-at in the earlier analysis ; where, in the insoluble portion of the 
-Mezo-Madaraz stone, Atkinson found no iron protoxide, Rammelsberg 
-finds 13-27 per cent. It will suffice in this place to mention that 
-the later analysis of the Transylvanian aerolite does not indicate 
-the presence of an excess of silica, and yields numbers which point 
-to the presence of an olivine, like that found in the meteorites of 
-Hainholz (1856) and Shergotty (1865, August 25th), and of a bronzite 
-resembling that occurring in the aerolite of Chantonnay (1812, 
-August 5th). 
+Baumhauer traces a resemblance, in point of composition, between the aerolites of Tjabé and Mezö-Madaraz (1852, September 4th), by comparing his results with those published by Atkinson,* who analysed the latter stone in Wöhler's laboratory. About the time of the publication of this paper of Baumhauer's (1871), Rammelsberg* announced the result (see infra) of his examination of the Mezö-Madaraz stone, which differs very considerably from those arrived at in the earlier analysis; where, in the insoluble portion of the Mezö-Madaraz stone, Atkinson found no iron protoxide, Rammelsberg finds 13.27 per cent. It will suffice in this place to mention that the later analysis of the Transylvanian aerolite does not indicate the presence of an excess of silica, and yields numbers which point to the presence of an olivine, like that found in the meteorites of Hainholz (1856) and Shergotty (1865, August 25th), and of a bronzite resembling that occurring in the aerolite of Chantonnay (1812, August 5th).
 
+*) E. Atkinson. _Jour. Prakt. Chem._, 1856, 357. _Phil. Mag._ 11. 141.
 
-1869, October 6th, 11.40-45 a.m.--- Stewart County, Georgia.3 
+*) C. Rammelsberg. _Zeit. Deutsch. Geol. Gesellsch._, 1871, 734.
+
+### 1869, October 6th, 11:40-45 a. m. --- Stewart County, Georgia.*
 
 When this stone fell, the sky was somewhat hazy, but there was 
 no cloud. An observer at Bladen's Creek heard a roaring rushing 
@@ -330,11 +276,7 @@ sound in a north-westerly direction ; in a moment it appeared to be
 directly westward ; then a loud explosion, followed by six other 
 
 
-1 E. Atkinson. Jour. PraJct. Chem., 1856, 357. Phil. Mag. xi. 141. 
-
-2 C. Rammelsberg. Zeit.Deutsch. Geol. Gesellsch., 1871, 734. 
-
-3 J. E. Willet and J. L. Smith. Amer. Jour. Sc. 1. 335, and 339. 
+*) J. E. Willet and J. L. Smith. _Amer. Jour. Sc._ 50. 335, and 339.
 
 reports, occurred. After these explosions a peculiar whizzing sound 
 was heard, produced apparently by some large irregular body 
